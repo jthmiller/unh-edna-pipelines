@@ -24,12 +24,33 @@ For a number of reasons (such as choice of cutoff parameters, reference database
 ### Our approach:  
 In efforts to standardize this approach, we have tried using observations from GBIF from sample locations to systematically annotate each of the ASV classifications in a similar way to the 'by hand' approach above. At GBIF, users can draw polygons on a map to download a huge number of local fish occurances.  
 
-1. For incomplete classifications: For example, if an ASV is annotated only to the genus level, we can query the GBIF occurances in the area to return all the species that match the genus. If there is only one species of the genus in that area, we might update the classification to this species.
+For incomplete classifications: For example, if an ASV is annotated only to the genus level, we can query the GBIF occurances in the area to return all the species that match the genus. If there is only one species of the genus in that area, we might update the classification to this species.
 
-2. For incorrect classifications:
+For incorrect classifications:
+
+### Steps to cross reference of GBIF for each classification
+1. Download GBIF occurances for all fish near eDNA samples locations
+    - Navigate to GBIF web interface  
+2. Filter obervations to those species that occured more than 3 times (after plotting the data, I found that this reduces the size of the file substantially and likely cuts down on spurious species observations)  
+    - Filter using fish taxonomy (use familes to pull out all fish)
+        - Note: I need to add the list of fish families that I used.
+2. Make a summary table for the number of times each species had occured in map area
+3. 
+
+Instructions for submitting request via GBIF API
+- [json](https://techdocs.gbif.org/en/data-use/api-downloads.html)
 
 
-### Cross reference of GBIF for each 
+Output for each classification:
+- Does the species occur in map area?  
+    - If no, are there any fish in the same genus? Family? (similar result if classified only to the genus level)  
+    - Note: I could use a refrence database tree to report closest relative and within map area ? 
+- For classifications to the genus level or higher: if few species share 
+
+
+Filter GBIF obervations to fish only
+    - Note: 
+    - Cross reference GBIF table with input reference database
 
 ### Example outputs:    
 BIOM Format  
