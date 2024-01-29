@@ -30,8 +30,6 @@ For incorrect classifications: We check a GBIF database for each ASV's classific
 
 For incomplete classifications: For example, if an ASV is annotated only to the genus level, we can query the GBIF occurances in the area to return all the species that match the genus. If there is only one species of the genus in that area, we might update the classification to this species.
 
-
-
 ### Steps to cross reference of GBIF for each classification
 1. Download GBIF occurances for all fish near eDNA samples locations
     - Navigate to GBIF web interface  
