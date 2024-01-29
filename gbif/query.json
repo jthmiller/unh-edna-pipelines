@@ -1,44 +1,52 @@
 {
-  "type": "and",
-  "predicates": [
-    {
-      "type": "in",
-      "key": "BASIS_OF_RECORD",
-      "values": [
-        "HUMAN_OBSERVATION",
-        "MATERIAL_SAMPLE",
-        "OCCURRENCE",
-        "OBSERVATION"
-      ],
-      "matchCase": false
-    },
-    {
-      "type": "in",
-      "key": "DATASET_KEY",
-      "values": [
-        "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
-        "240f38f1-ada4-4eac-a9b5-28dd8308d01d",
-        "ec186b76-898c-435b-9aea-ebbd5785a25f"
-      ],
-      "matchCase": false
-    },
-    {
-      "type": "within",
-      "geometry": "POLYGON((-72.41408 37.54614,-67.59222 38.41584,-63.71981 41.31311,-64.49429 44.50287,-70.30291 45.46151,-73.40084 42.39471,-76.30514 38.94486,-72.41408 37.54614))"
-    },
-    {
-      "type": "equals",
-      "key": "HAS_GEOSPATIAL_ISSUE",
-      "value": "false",
-      "matchCase": false
-    },
-    {
-      "type": "equals",
-      "key": "OCCURRENCE_STATUS",
-      "value": "present",
-      "matchCase": false
-    }
-  ]
+  "creator": "userName",
+  "notificationAddresses": [
+    "userEmail@example.org"
+  ],
+  "sendNotification": true,
+  "format": "SIMPLE_CSV",
+  "predicate": {
+    "type": "and",
+    "predicates": [
+      {
+        "type": "in",
+        "key": "BASIS_OF_RECORD",
+        "values": [
+          "HUMAN_OBSERVATION",
+          "MATERIAL_SAMPLE",
+          "OCCURRENCE",
+          "OBSERVATION"
+        ],
+        "matchCase": false
+      },
+      {
+        "type": "in",
+        "key": "DATASET_KEY",
+        "values": [
+          "50c9509d-22c7-4a22-a47d-8c48425ef4a7",
+          "240f38f1-ada4-4eac-a9b5-28dd8308d01d",
+          "ec186b76-898c-435b-9aea-ebbd5785a25f"
+        ],
+        "matchCase": false
+      },
+      {
+        "type": "within",
+        "geometry": "POLYGON((-72.41408 37.54614,-67.59222 38.41584,-63.71981 41.31311,-64.49429 44.50287,-70.30291 45.46151,-73.40084 42.39471,-76.30514 38.94486,-72.41408 37.54614))"
+      },
+      {
+        "type": "equals",
+        "key": "HAS_GEOSPATIAL_ISSUE",
+        "value": "false",
+        "matchCase": false
+      },
+      {
+        "type": "equals",
+        "key": "OCCURRENCE_STATUS",
+        "value": "present",
+        "matchCase": false
+      }
+    ]
+  }
 }
                                             
   

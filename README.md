@@ -35,7 +35,7 @@ For incorrect classifications:
     - Filter using fish taxonomy (use familes to pull out all fish)
         - Note: I need to add the list of fish families that I used.
 2. Make a summary table for the number of times each species had occured in map area
-3. 
+3.  
 
 Instructions for submitting request via GBIF API
 - [json](https://techdocs.gbif.org/en/data-use/api-downloads.html)
