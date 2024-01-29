@@ -19,14 +19,18 @@ For all Mifish primers, we use [Mitofish](https://mitofish.aori.u-tokyo.ac.jp/do
 We use qiime's 'classify-hybrid-vsearch-sklearn'. This classifier is a hybrid of the VSEARCH algorithm (similar to BLAST) for exact matches, and uses sci-kit learn classifier that has been trained to classify reference database sequeces (in this case, the MiFish reference database above). We find that the hybrid approach may be more robust to hard cuttoff parameters of BLAST/VSEARCH alone. 
 
 ## Post-processing of ASV classifications
-For a number of reasons (such as choice of cutoff parameters, reference database incompleteness, and variable rates of substititions along phylogenetic trees) sequence classifiers often arrive at the wrong or incomplete taxonomy. In the case of MiFish, the number of species identified among the samples are short- so individuals often forced to correct the classifications by hand using the known distributions of fish (such as Fishbase or others). 
+For a number of reasons (such as choice of cutoff parameters, reference database incompleteness, and variable rates of substititions along phylogenetic trees) sequence classifiers are known to be wrong or incomplete. 
+
+In the case of MiFish, the number of species identified among the samples are often short- so the classification results are often corrected by hand using the known distributions of fish (such as Fishbase or others). 
 
 ### Our approach:  
-In efforts to standardize this approach, we have tried using observations from GBIF from sample locations to systematically annotate each of the ASV classifications in a similar way to the 'by hand' approach above. At GBIF, users can draw polygons on a map to download a huge number of local fish occurances.  
+In efforts to make corrections in a reproducible way, we have started using GBIF observations around eDNA sample locations to systematically annotate each of the ASV classifications in a similar way to the 'by hand' approach mentioned above. To accomplish this, a user can draw polygons on a map to download a huge number of species observations.
+
+For incorrect classifications: We check a GBIF database for each ASV's classification. If the species has no observations records in the area, the script returns 
 
 For incomplete classifications: For example, if an ASV is annotated only to the genus level, we can query the GBIF occurances in the area to return all the species that match the genus. If there is only one species of the genus in that area, we might update the classification to this species.
 
-For incorrect classifications:
+
 
 ### Steps to cross reference of GBIF for each classification
 1. Download GBIF occurances for all fish near eDNA samples locations
