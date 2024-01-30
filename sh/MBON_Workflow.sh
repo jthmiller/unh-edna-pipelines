@@ -43,13 +43,17 @@ qiime dada2 denoise-paired \
 ## Classify
 ## Parameters to consider: --p-maxaccepts, --p-query-cov, --p-perc-identity
 ## classify-hybrid-vsearch-sklearn may be more robust to parameter changes
+conda activate qiime2-2022.8
+
 qiime feature-classifier classify-hybrid-vsearch-sklearn \
-  --i-query ${run}_merged_unlinked_rep-seqs.qza \
-  --i-reference-reads /home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/12S-seqs-derep-uniq_extract-reads.qza \
-  --i-reference-taxonomy /home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/12S-tax-derep-uniq.qza \
-  --i-classifier /home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/mitofish-classifier.qza \
+  --i-query data/MBON_Sep21_rep-seqs.qza \
+  --i-reference-reads ref_dbs/12S-seqs-derep-uniq_extract-reads.qza \
+  --i-reference-taxonomy ref_dbs/12S-tax-derep-uniq.qza \
+  --i-classifier ref_dbs/mitofish-classifier.qza \
   --p-maxaccepts 10 \
   --p-query-cov 1 \
   --p-perc-identity 0.95 \
   --p-threads 12 \
   --o-classification ${run}_merged_unlinked_hybrid-taxonomy-10-95
+
+

@@ -6,22 +6,43 @@ taxa_in <- options[1]
 reftax <- options[2]
 gbif <- options[3]
 
+
+taxa_in <- 'data/MBON_Sep21_hybrid-taxonomy-10-95.qza'
+reftax <- 'ref_dbs/12S-tax-derep-uniq.qza'
+gbif <- 'gbif/test_gbif_map_intersect_family.txt'
+
+
 require(qiime2R)
 require(taxize)
 require(rBLAST)
 require(RFLPtools)
-#require(Biostrings)
-
+require(Biostrings)
+require(tidyverse)
 
 ## todo: 
 ## 1. add output table. This summary table should help identify taxa that are common in GBIF, but not found in the reference database.
 
-
-
 taxa_in <- read_qza(taxa_in)$data
-reftax <- read_qza(reftax)$data
-gbif <- read.table(gbif, row.names = NULL, sep = '\t', header=F)
-colnames(gbif) <- 'species'
+reftax <- read_qza(reftax)$data %>% parse_taxonomy()
+
+gbif <- read.table(gbif, row.names = NULL, sep = ',', header=F)
+colnames(gbif) <- c('count','order','family','genus','level','genus_species','ID')
+
+
+
+gbif_tax <- gbif[!gbif$level == 'SPECIES',]
+
+
+
+gbif <- gbif[gbif$level == 'SPECIES',]
+gbif$in_refdb <- ifelse(gbif$genus_species %in% reftax$Species, 'MATCH', 'NO MATCH')
+gbif <- gbif[order(gbif$count, decreasing=T),]
+
+write.table(gbif, 'gbif/gbif_map_intersect_species.txt', sep = ',', row.names = F, quote = F)
+
+
+
+
 
 ### Add gbid data to qiime_tax ###
 add_gbif <- function(tax_in, refs, gbif_in){
