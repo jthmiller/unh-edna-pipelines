@@ -18,7 +18,7 @@ wget -r -np -R "index.html*" --http-user=user --http-password=aQuMnVFTTr https:/
 wget -r -np -R "index.html*" --http-user=user --http-password=GTjAMJrWAM https://cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_20Mer121923-AW-HIDAR-16SNX121123/reads
 wget -r -np -R "index.html*" --http-user=user --http-password=CMVsWcxFYS https://cobb.sr.unh.edu/managed/231201_A01346_0124_BHHFKWDRX3_16Mer120123-AW-BCWEHIDARFC-CO1NX080323/reads
 ```
-#### This will put the data in 'raw-data/cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_16Mer121923-AW-HIDAR-18SNX120623/reads'
+##### This will put the data in 'raw-data/cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_16Mer121923-AW-HIDAR-18SNX120623/reads'
 
 
 ## make out dirs
