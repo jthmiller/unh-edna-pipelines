@@ -1,0 +1,441 @@
+12,Acipenseriformes,Acipenseridae,Acipenser,SPECIES,Acipenser brevirostrum,2402192
+55,Acipenseriformes,Acipenseridae,Acipenser,SPECIES,Acipenser oxyrinchus,4287132
+11,Amiiformes,Amiidae,Amia,SPECIES,Amia ocellicauda,5207901
+603,Anguilliformes,Anguillidae,Anguilla,SPECIES,Anguilla rostrata,5212956
+22,Anguilliformes,Anguillidae,,FAMILY,Anguillidae,2949
+53,Anguilliformes,Congridae,Conger,SPECIES,Conger oceanicus,2403522
+22,Anguilliformes,Derichthyidae,Nessorhamphus,SPECIES,Nessorhamphus ingolfianus,2405407
+148,Anguilliformes,Nemichthyidae,Nemichthys,SPECIES,Nemichthys scolopaceus,2403686
+16,Anguilliformes,Ophichthidae,Ophichthus,SPECIES,Ophichthus cruentifer,5213135
+17,Anguilliformes,Serrivomeridae,Serrivomer,SPECIES,Serrivomer beani,2403665
+19,Anguilliformes,Synaphobranchidae,,FAMILY,Synaphobranchidae,7170
+5,Anguilliformes,Synaphobranchidae,Ilyophis,SPECIES,Ilyophis brunneus,2402821
+17,Anguilliformes,Synaphobranchidae,Simenchelys,SPECIES,Simenchelys parasitica,2402878
+186,Anguilliformes,Synaphobranchidae,Synaphobranchus,SPECIES,Synaphobranchus kaupi,2402847
+5,Atheriniformes,Atherinopsidae,Membras,SPECIES,Membras martinica,2412232
+21,Atheriniformes,Atherinopsidae,Menidia,SPECIES,Menidia beryllina,2412295
+389,Atheriniformes,Atherinopsidae,Menidia,SPECIES,Menidia menidia,2412304
+9,Aulopiformes,Bathysauridae,Bathysaurus,SPECIES,Bathysaurus ferox,2401415
+155,Aulopiformes,Chlorophthalmidae,Chlorophthalmus,SPECIES,Chlorophthalmus agassizi,2401401
+27,Aulopiformes,Chlorophthalmidae,,FAMILY,Chlorophthalmidae,7181
+143,Aulopiformes,Chlorophthalmidae,Parasudis,SPECIES,Parasudis truculenta,2401380
+7,Aulopiformes,Notosudidae,Scopelosaurus,SPECIES,Scopelosaurus lepidus,2401058
+212,Aulopiformes,Paralepididae,Arctozenus,SPECIES,Notolepis rissoi,2401552
+10,Aulopiformes,Paralepididae,Magnisudis,SPECIES,Paralepis atlantica,7452517
+6,Aulopiformes,Paralepididae,Paralepis,GENUS,Paralepis,2401592
+21,Aulopiformes,Synodontidae,Synodus,SPECIES,Synodus foetens,5212651
+8,Aulopiformes,Synodontidae,Synodus,SPECIES,Trachinocephalus myops,2401159
+298,Batrachoidiformes,Batrachoididae,Opsanus,SPECIES,Opsanus tau,2350910
+102,Beloniformes,Belonidae,Strongylura,SPECIES,Strongylura marina,5208028
+4,Beloniformes,Exocoetidae,Hirundichthys,SPECIES,Hirundichthys volador,9591512
+11,Beloniformes,Hemiramphidae,Hyporhamphus,SPECIES,Hyporhamphus meeki,2368890
+37,Beloniformes,Scomberesocidae,Scomberesox,SPECIES,Scomberesox saurus,2369272
+464,Clupeiformes,Clupeidae,Alosa,SPECIES,Alosa aestivalis,2412708
+27,Clupeiformes,Clupeidae,Alosa,SPECIES,Alosa mediocris,2412699
+10177,Clupeiformes,Clupeidae,Alosa,SPECIES,Alosa pseudoharengus,2412740
+2636,Clupeiformes,Clupeidae,Alosa,SPECIES,Alosa sapidissima,2412661
+6,Clupeiformes,Clupeidae,Alosa,GENUS,Alosa,2412615
+1062,Clupeiformes,Clupeidae,Brevoortia,SPECIES,Brevoortia tyrannus,5214544
+48289,Clupeiformes,Clupeidae,Clupea,SPECIES,Clupea harengus,8351946
+58,Clupeiformes,Clupeidae,Dorosoma,SPECIES,Dorosoma cepedianum,2413541
+10,Clupeiformes,Clupeidae,Sardinella,SPECIES,Sardinella aurita,2412864
+22,Clupeiformes,Engraulidae,Anchoa,SPECIES,Anchoa hepsetus,2413913
+54,Clupeiformes,Engraulidae,Anchoa,SPECIES,Anchoa mitchilli,2413931
+201,Cypriniformes,Catostomidae,Catostomus,SPECIES,Catostomus commersonii,2359014
+45,Cypriniformes,Catostomidae,Erimyzon,SPECIES,Erimyzon oblongus,2358941
+19,Cypriniformes,Cobitidae,Misgurnus,SPECIES,Misgurnus anguillicaudatus,2367919
+156,Cypriniformes,Cyprinidae,Carassius,SPECIES,Carassius auratus,4286942
+6,Cypriniformes,Cyprinidae,Chrosomus,SPECIES,Chrosomus eos,2365385
+5,Cypriniformes,Cyprinidae,Couesius,SPECIES,Couesius plumbeus,2360898
+11,Cypriniformes,Cyprinidae,Ctenopharyngodon,SPECIES,Ctenopharyngodon idella,2362030
+32,Cypriniformes,Cyprinidae,Cyprinella,SPECIES,Cyprinella analostana,5207658
+8,Cypriniformes,Cyprinidae,Cyprinella,SPECIES,Cyprinella spiloptera,5207691
+288,Cypriniformes,Cyprinidae,Cyprinus,SPECIES,Cyprinus carpio,4286975
+8,Cypriniformes,Cyprinidae,Cyprinus,SUBSPECIES,Cyprinus carpio carpio,7059109
+94,Cypriniformes,Cyprinidae,Cyprinus,SPECIES,Cyprinus rubrofuscus,2367196
+7,Cypriniformes,Cyprinidae,Exoglossum,SPECIES,Exoglossum maxillingua,2361987
+20,Cypriniformes,Cyprinidae,Hybognathus,SPECIES,Hybognathus regius,2364402
+183,Cypriniformes,Cyprinidae,Luxilus,SPECIES,Luxilus cornutus,2366967
+245,Cypriniformes,Cyprinidae,Notemigonus,SPECIES,Notemigonus crysoleucas,2363714
+19,Cypriniformes,Cyprinidae,Notropis,SPECIES,Notropis amoenus,2362198
+50,Cypriniformes,Cyprinidae,Notropis,SPECIES,Notropis bifrenatus,2362305
+18,Cypriniformes,Cyprinidae,Notropis,SPECIES,Notropis chalybaeus,2362302
+57,Cypriniformes,Cyprinidae,Notropis,SPECIES,Notropis hudsonius,2362185
+43,Cypriniformes,Cyprinidae,Notropis,SPECIES,Notropis procne,2362157
+28,Cypriniformes,Cyprinidae,Pimephales,SPECIES,Pimephales promelas,2367742
+271,Cypriniformes,Cyprinidae,Rhinichthys,SPECIES,Rhinichthys atratulus,2359823
+44,Cypriniformes,Cyprinidae,Rhinichthys,SPECIES,Rhinichthys cataractae,2359811
+249,Cypriniformes,Cyprinidae,Semotilus,SPECIES,Semotilus atromaculatus,2360481
+148,Cypriniformes,Cyprinidae,Semotilus,SPECIES,Semotilus corporalis,2360492
+184,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,SPECIES,Cyprinodon variegatus,4284440
+314,Cyprinodontiformes,Fundulidae,Fundulus,SPECIES,Fundulus diaphanus,5712054
+28,Cyprinodontiformes,Fundulidae,Fundulus,SUBSPECIES,Fundulus diaphanus diaphanus,7193435
+632,Cyprinodontiformes,Fundulidae,Fundulus,SPECIES,Fundulus heteroclitus,5712056
+18,Cyprinodontiformes,Fundulidae,Fundulus,SPECIES,Fundulus luciae,5203663
+309,Cyprinodontiformes,Fundulidae,Fundulus,SPECIES,Fundulus majalis,5203628
+5,Cyprinodontiformes,Fundulidae,Fundulus,GENUS,Fundulus,2347676
+40,Cyprinodontiformes,Fundulidae,Lucania,SPECIES,Lucania parva,2349567
+68,Cyprinodontiformes,Poeciliidae,Gambusia,SPECIES,Gambusia affinis,2350580
+134,Cyprinodontiformes,Poeciliidae,Gambusia,SPECIES,Gambusia holbrooki,2350570
+17,Cyprinodontiformes,Poeciliidae,Gambusia,GENUS,Gambusia,2349552
+24,Carcharhiniformes,Carcharhinidae,Carcharhinus,SPECIES,Carcharhinus plumbeus,2418009
+8,Carcharhiniformes,Carcharhinidae,Galeocerdo,SPECIES,Galeocerdo cuvier,2418234
+34,Carcharhiniformes,Carcharhinidae,Prionace,SPECIES,Prionace glauca,2417940
+8,Carcharhiniformes,Scyliorhinidae,Apristurus,SPECIES,Apristurus laurussoni,2418468
+6,Carcharhiniformes,Scyliorhinidae,Apristurus,SPECIES,Apristurus profundorum,2418478
+11,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,SPECIES,Scyliorhinus retifer,2418664
+11,Carcharhiniformes,Sphyrnidae,Sphyrna,SPECIES,Sphyrna lewini,2418789
+512,Carcharhiniformes,Triakidae,Mustelus,SPECIES,Mustelus canis,2418312
+12,Lamniformes,Alopiidae,Alopias,SPECIES,Alopias vulpinus,2420797
+40,Lamniformes,Cetorhinidae,Cetorhinus,SPECIES,Cetorhinus maximus,2420726
+18,Lamniformes,Lamnidae,Carcharodon,SPECIES,Carcharodon carcharias,2420694
+9,Lamniformes,Lamnidae,Isurus,SPECIES,Isurus oxyrinchus,5216248
+14,Lamniformes,Lamnidae,Lamna,SPECIES,Lamna nasus,5216239
+26,Lamniformes,Odontaspididae,Carcharias,SPECIES,Carcharias taurus,2420766
+14,Myliobatiformes,Dasyatidae,Bathytoshia,SPECIES,Bathytoshia centroura,9363791
+7,Myliobatiformes,Dasyatidae,Hypanus,GENUS,Hypanus say,4853261
+5,Myliobatiformes,Gymnuridae,Gymnura,SPECIES,Gymnura altavela,5216232
+7,Myliobatiformes,Myliobatidae,Mobula,SPECIES,Mobula birostris,9548142
+13,Myliobatiformes,Myliobatidae,Mobula,SPECIES,Mobula tarapacana,2419179
+27,Myliobatiformes,Myliobatidae,Myliobatis,SPECIES,Myliobatis freminvillei,2419292
+47,Myliobatiformes,Myliobatidae,Rhinoptera,SPECIES,Rhinoptera bonasus,5215777
+15,Orectolobiformes,Rhincodontidae,Rhincodon,SPECIES,Rhincodon typus,2417522
+6622,Rajiformes,Rajidae,Amblyraja,SPECIES,Amblyraja radiata,2420446
+2178,Rajiformes,Rajidae,Dipturus,SPECIES,Dipturus laevis,2420230
+101,Rajiformes,Rajidae,,FAMILY,Rajidae,5877
+5531,Rajiformes,Rajidae,Leucoraja,GENUS,Leucoraja,2419848
+27050,Rajiformes,Rajidae,Leucoraja,SPECIES,Leucoraja erinacea,2419879
+352,Rajiformes,Rajidae,Leucoraja,SPECIES,Leucoraja erinaceus,2419879
+50,Rajiformes,Rajidae,Leucoraja,SPECIES,Leucoraja garmani,2419858
+5,Rajiformes,Rajidae,Leucoraja,SPECIES,Raja garmani,5215978
+36334,Rajiformes,Rajidae,Leucoraja,SPECIES,Leucoraja ocellata,2419886
+4321,Rajiformes,Rajidae,Malacoraja,SPECIES,Malacoraja senta,2419827
+111,Rajiformes,Rajidae,Raja,GENUS,Raja,2342057
+13,Rajiformes,Rajidae,Raja,SPECIES,Raja eglanteria,5216061
+217,Rajiformes,Rajidae,Raja,SPECIES,Rostroraja eglanteria,11005272
+12,Rajiformes,Rajidae,Rajella,SPECIES,Rajella fyllae,2420418
+109,Squaliformes,Etmopteridae,Centroscyllium,SPECIES,Centroscyllium fabricii,2421020
+5,Squaliformes,Etmopteridae,Etmopterus,SPECIES,Etmopterus princeps,2421071
+6,Squaliformes,Somniosidae,Centroscymnus,SPECIES,Centroscymnus coelolepis,2421147
+47329,Squaliformes,Squalidae,Squalus,SPECIES,Squalus acanthias,5216368
+29,Torpediniformes,Torpedinidae,Tetronarce,SPECIES,Tetronarce occidentalis,11103867
+13,Torpediniformes,Torpedinidae,Tetronarce,SPECIES,Torpedo nobiliana,5215510
+39,Esociformes,Esocidae,Esox,SPECIES,Esox americanus,4284046
+55,Esociformes,Esocidae,Esox,SUBSPECIES,Esox americanus americanus,6167920
+33,Esociformes,Esocidae,Esox,SPECIES,Esox lucius,2346633
+397,Esociformes,Esocidae,Esox,SPECIES,Esox niger,2346629
+5,Esociformes,Esocidae,Esox,GENUS,Esox,2346628
+5,Esociformes,Umbridae,Umbra,SPECIES,Umbra limi,5203110
+107,Esociformes,Umbridae,Umbra,SPECIES,Umbra pygmaea,5203111
+47390,Gadiformes,Gadidae,Gadus,SPECIES,Gadus morhua,8084280
+234836,Gadiformes,Gadidae,Melanogrammus,SPECIES,Melanogrammus aeglefinus,2415822
+37,Gadiformes,Gadidae,Microgadus,SPECIES,Microgadus tomcod,2415893
+20756,Gadiformes,Gadidae,Pollachius,SPECIES,Pollachius virens,2415861
+2165,Gadiformes,Lotidae,Brosme,SPECIES,Brosme brosme,2415505
+559,Gadiformes,Lotidae,Enchelyopus,SPECIES,Enchelyopus cimbrius,5214892
+5,Gadiformes,Lotidae,Gaidropsarus,SPECIES,Gaidropsarus ensis,2415583
+4,Gadiformes,Lotidae,Lota,SPECIES,Lota lota,2415460
+27,Gadiformes,Macrouridae,Coryphaenoides,SPECIES,Coryphaenoides carapinus,5215212
+116,Gadiformes,Macrouridae,Coryphaenoides,SPECIES,Coryphaenoides rupestris,5215150
+8,Gadiformes,Macrouridae,,FAMILY,Macrouridae,6978
+5,Gadiformes,Macrouridae,Macrourus,SPECIES,Macrourus berglax,5215147
+7,Gadiformes,Macrouridae,Malacocephalus,SPECIES,Malacocephalus occidentalis,5215097
+622,Gadiformes,Macrouridae,Nezumia,SPECIES,Nezumia bairdii,2416930
+88,Gadiformes,Merlucciidae,Merluccius,SPECIES,Merluccius albidus,2415661
+101913,Gadiformes,Merlucciidae,Merluccius,SPECIES,Merluccius bilinearis,2415637
+24,Gadiformes,Moridae,Antimora,SPECIES,Antimora rostrata,2417115
+5,Gadiformes,Moridae,Halargyreus,SPECIES,Halargyreus johnsonii,2417127
+5,Gadiformes,Moridae,Laemonema,SPECIES,Laemonema barbatulum,5215399
+1952,Gadiformes,Phycidae,Phycis,SPECIES,Urophycis chesteri,2415714
+10,Gadiformes,Phycidae,Urophycis,GENUS,Urophycis,2415715
+16740,Gadiformes,Phycidae,Urophycis,SPECIES,Urophycis chuss,2415718
+206,Gadiformes,Phycidae,Urophycis,SPECIES,Urophycis regia,2415740
+17442,Gadiformes,Phycidae,Urophycis,SPECIES,Urophycis tenuis,2415734
+73,Gasterosteiformes,Gasterosteidae,Apeltes,SPECIES,Apeltes quadracus,5204681
+24,Gasterosteiformes,Gasterosteidae,Gasterosteus,SPECIES,Gasterosteus aculeatus,4286327
+24,Gasterosteiformes,Gasterosteidae,Pungitius,SPECIES,Pungitius pungitius,5739510
+420,Neogastropoda,Buccinidae,Buccinum,SPECIES,Buccinum undatum,2305073
+223,Neogastropoda,Buccinidae,Buccinum,GENUS,Buccinum,2305012
+39,Neogastropoda,Buccinidae,,FAMILY,Buccinidae,2696
+115,Neogastropoda,Buccinidae,Neptunea,SPECIES,Neptunea decemcostata,2304672
+1015,Neogastropoda,Busyconidae,Busycon,SPECIES,Busycon carica,2302937
+710,Neogastropoda,Busyconidae,Busycotypus,SPECIES,Busycotypus canaliculatus,2302958
+8,Neogastropoda,Busyconidae,Sinistrofulgur,SPECIES,Sinistrofulgur laeostomum,7886441
+31,Neogastropoda,Colidae,Colus,SPECIES,Colus stimpsoni,5193520
+44,Neogastropoda,Colidae,Colus,GENUS,Colus,2304824
+43,Neogastropoda,Columbellidae,Astyris,SPECIES,Astyris lunata,2305739
+8,Neogastropoda,Columbellidae,Costoanachis,SPECIES,Costoanachis avara,2305783
+69,Neogastropoda,Columbellidae,Costoanachis,SPECIES,Costoanachis translirata,6506364
+6,Neogastropoda,Mangeliidae,Kurtziella,SPECIES,Kurtziella cerina,2303529
+14,Neogastropoda,Mangeliidae,Pyrgocythara,SPECIES,Pyrgocythara plicosa,2303887
+4,Neogastropoda,Marginellidae,Prunum,SPECIES,Prunum roscidum,5193370
+113,Neogastropoda,Muricidae,Eupleura,SPECIES,Eupleura caudata,2304460
+830,Neogastropoda,Muricidae,Nucella,SPECIES,Nucella lapillus,5193449
+390,Neogastropoda,Muricidae,Urosalpinx,SPECIES,Urosalpinx cinerea,2304415
+1254,Neogastropoda,Nassariidae,Ilyanassa,SPECIES,Ilyanassa obsoleta,2302982
+458,Neogastropoda,Nassariidae,Ilyanassa,SPECIES,Ilyanassa trivittata,2303000
+10,Neogastropoda,Nassariidae,Phrontis,SPECIES,Phrontis vibex,8652815
+18,Chimaeriformes,Rhinochimaeridae,Harriotta,SPECIES,Harriotta raleighana,2417430
+9,Chimaeriformes,Rhinochimaeridae,Rhinochimaera,SPECIES,Rhinochimaera atlantica,2417443
+5,Lophiiformes,Antennariidae,Histrio,SPECIES,Histrio histrio,5214666
+2999,Lophiiformes,Lophiidae,Lophius,SPECIES,Lophius americanus,2415069
+13,Lophiiformes,Ogcocephalidae,Dibranchus,SPECIES,Dibranchus atlanticus,2414913
+6,Mugiliformes,Mugilidae,Mugil,SPECIES,Mugil cephalus,8189568
+35,Mugiliformes,Mugilidae,Mugil,SPECIES,Mugil curema,2400641
+85,Myctophiformes,Myctophidae,Benthosema,SPECIES,Benthosema glaciale,2406057
+7,Myctophiformes,Myctophidae,Benthosema,GENUS,Benthosema,2406056
+13,Myctophiformes,Myctophidae,Ceratoscopelus,SPECIES,Ceratoscopelus maderensis,2406043
+33,Myctophiformes,Myctophidae,Diaphus,SPECIES,Diaphus dumerilii,2406248
+611,Myctophiformes,Myctophidae,,FAMILY,Myctophidae,4217
+94,Myctophiformes,Myctophidae,Hygophum,SPECIES,Hygophum hygomi,5213288
+27,Myctophiformes,Myctophidae,Lampanyctus,SPECIES,Lampanyctus macdonaldi,2405998
+21,Myctophiformes,Myctophidae,Myctophum,SPECIES,Myctophum punctatum,2405855
+11,Myctophiformes,Myctophidae,Notoscopelus,GENUS,Notoscopelus,2406092
+13,Myctophiformes,Myctophidae,Notoscopelus,SUBSPECIES,Notoscopelus elongatus kroyeri,4286706
+4,Myctophiformes,Myctophidae,Notoscopelus,SPECIES,Notoscopelus resplendens,2406106
+9,Myctophiformes,,,ORDER,Myctophiformes,1306
+1087,Myxiniformes,Myxinidae,Myxine,SPECIES,Myxine glutinosa,2498670
+8,Myxiniformes,Myxinidae,Myxine,SPECIES,Myxine limosa,2498683
+7,Notacanthiformes,Halosauridae,Aldrovandia,SPECIES,Aldrovandia affinis,5213262
+19,Notacanthiformes,Halosauridae,Aldrovandia,SPECIES,Aldrovandia phalacra,5213264
+23,Notacanthiformes,Halosauridae,Halosauropsis,SPECIES,Halosauropsis macrochir,2405479
+8,Ophidiiformes,Ophidiidae,Dicrolene,SPECIES,Dicrolene introniger,2346047
+4,Ophidiiformes,Ophidiidae,,FAMILY,Ophidiidae,8476
+324,Ophidiiformes,Ophidiidae,Lepophidium,SPECIES,Lepophidium profundorum,2345611
+14,Ophidiiformes,Ophidiidae,Ophidion,SPECIES,Ophidion marginatum,5203038
+34,Ophidiiformes,,,ORDER,Ophidioidei,1308
+66,Osmeriformes,Alepocephalidae,Alepocephalus,SPECIES,Alepocephalus agassizii,5214412
+8,Osmeriformes,Alepocephalidae,Rouleina,SPECIES,Rouleina attrita,5214370
+4716,Osmeriformes,Argentinidae,Argentina,SPECIES,Argentina silus,5214450
+5,Osmeriformes,Argentinidae,,FAMILY,Argentinidae,4222
+20,Osmeriformes,Bathylagidae,Bathylagus,SPECIES,Bathylagus euryops,2410971
+52,Osmeriformes,Osmeridae,Mallotus,SPECIES,Mallotus villosus,5214420
+54,Osmeriformes,Osmeridae,Osmerus,SPECIES,Osmerus mordax,4283983
+5,Osmeriformes,Platytroctidae,Holtbyrnia,SPECIES,Holtbyrnia anomala,2411120
+32,Perciformes,Acropomatidae,Synagrops,SPECIES,Synagrops bella,2381532
+32,Perciformes,Ammodytidae,Ammodytes,SPECIES,Ammodytes americanus,2389998
+2063,Perciformes,Ammodytidae,Ammodytes,SPECIES,Ammodytes dubius,2389990
+76,Perciformes,Ammodytidae,Ammodytes,GENUS,Ammodytes,2389989
+3007,Perciformes,Anarhichadidae,Anarhichas,SPECIES,Anarhichas lupus,8006460
+4,Perciformes,Ariommatidae,Ariomma,SPECIES,Ariomma bondi,2399410
+18,Perciformes,Blenniidae,Chasmodes,SPECIES,Chasmodes bosquianus,5211360
+42,Perciformes,Blenniidae,Hypsoblennius,SPECIES,Hypsoblennius hentz,2395566
+5,Perciformes,Callionymidae,Callionymus,GENUS,Callionymus,2333601
+8,Perciformes,Callionymidae,,FAMILY,Callionymidae,8511
+20,Perciformes,Callionymidae,Foetorepus,SPECIES,Foetorepus agassizi,2386564
+16,Perciformes,Caproidae,Antigonia,SPECIES,Antigonia capros,2389693
+5,Perciformes,Carangidae,Alectis,SPECIES,Alectis ciliaris,2390537
+19,Perciformes,Carangidae,Caranx,SPECIES,Caranx crysos,2390762
+27,Perciformes,Carangidae,Caranx,SPECIES,Caranx hippos,2390778
+6,Perciformes,Carangidae,Decapterus,SPECIES,Decapterus punctatus,2391041
+10,Perciformes,Carangidae,Selar,SPECIES,Selar crumenophthalmus,2391007
+35,Perciformes,Carangidae,Selene,SPECIES,Selene setapinnis,2390733
+6,Perciformes,Carangidae,Selene,SPECIES,Vomer setapinnis,2390735
+17,Perciformes,Carangidae,Selene,SPECIES,Selene vomer,2390711
+9,Perciformes,Carangidae,Seriola,SPECIES,Seriola rivoliana,5961682
+18,Perciformes,Carangidae,Seriola,SPECIES,Seriola zonata,5961719
+19,Perciformes,Carangidae,Trachinotus,SPECIES,Trachinotus carolinus,5210681
+62,Perciformes,Carangidae,Trachinotus,SPECIES,Trachinotus falcatus,9819074
+9,Perciformes,Carangidae,Trachurus,SPECIES,Trachurus lathami,5210468
+18,Perciformes,Centrarchidae,Acantharchus,SPECIES,Acantharchus pomotis,2394540
+106,Perciformes,Centrarchidae,Ambloplites,SPECIES,Ambloplites rupestris,2394514
+33,Perciformes,Centrarchidae,Enneacanthus,SPECIES,Enneacanthus chaetodon,2394547
+106,Perciformes,Centrarchidae,Enneacanthus,SPECIES,Enneacanthus gloriosus,2394551
+102,Perciformes,Centrarchidae,Enneacanthus,SPECIES,Enneacanthus obesus,2394549
+47,Perciformes,Centrarchidae,Lepomis,GENUS,Lepomis,2394482
+8,Perciformes,Centrarchidae,Lepomis,GENUS,Lepomis auritus × macrochirus,2394482
+35,Perciformes,Centrarchidae,Lepomis,GENUS,Lepomis gibbosus × cyanellus,2394482
+51,Perciformes,Centrarchidae,Lepomis,GENUS,Lepomis gibbosus × macrochirus,2394482
+43,Perciformes,Centrarchidae,Lepomis,GENUS,Lepomis macrochirus × cyanellus,2394482
+457,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis auritus,2394491
+307,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis cyanellus,2394494
+755,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis gibbosus,2394486
+8,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis gulosus,2394507
+1695,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis macrochirus,2394503
+6,Perciformes,Centrarchidae,Lepomis,SUBSPECIES,Lepomis macrochirus macrochirus,9453826
+14,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis microlophus,2394501
+294,Perciformes,Centrarchidae,Micropterus,SPECIES,Micropterus dolomieu,5211250
+1046,Perciformes,Centrarchidae,Micropterus,SPECIES,Micropterus salmoides,2394563
+21,Perciformes,Centrarchidae,Pomoxis,SPECIES,Pomoxis annularis,2394534
+298,Perciformes,Centrarchidae,Pomoxis,SPECIES,Pomoxis nigromaculatus,2394526
+9,Perciformes,Centrolophidae,Hyperoglyphe,SPECIES,Hyperoglyphe perciformis,2398160
+4,Perciformes,Chaetodontidae,Chaetodon,SPECIES,Chaetodon capistratus,2385548
+46,Perciformes,Chaetodontidae,Chaetodon,SPECIES,Chaetodon ocellatus,2385448
+66,Perciformes,Channidae,Channa,SPECIES,Channa argus,4284921
+7,Perciformes,Chiasmodontidae,Chiasmodon,SPECIES,Chiasmodon niger,2394676
+36,Perciformes,Coryphaenidae,Coryphaena,SPECIES,Coryphaena hippurus,2381939
+81,Perciformes,Cryptacanthodidae,Cryptacanthodes,SPECIES,Cryptacanthodes maculatus,2387415
+4,Perciformes,Ephippidae,Chaetodipterus,SPECIES,Chaetodipterus faber,2394320
+4,Perciformes,Gempylidae,Nealotus,SPECIES,Nealotus tripes,2397769
+16,Perciformes,Gerreidae,Eucinostomus,SPECIES,Eucinostomus harengulus,2369478
+5,Perciformes,Gobiidae,Ctenogobius,SPECIES,Ctenogobius boleosoma,2375376
+37,Perciformes,Gobiidae,Gobiosoma,SPECIES,Gobiosoma bosc,5208832
+22,Perciformes,Gobiidae,Gobiosoma,SPECIES,Gobiosoma ginsburgi,5208834
+27,Perciformes,Haemulidae,Orthopristis,SPECIES,Orthopristis chrysoptera,2382797
+324,Perciformes,Labridae,Tautoga,SPECIES,Tautoga onitis,2383615
+1430,Perciformes,Labridae,Tautogolabrus,SPECIES,Tautogolabrus adspersus,2382945
+4,Perciformes,Lutjanidae,Lutjanus,SPECIES,Lutjanus campechanus,2384865
+24,Perciformes,Lutjanidae,Lutjanus,SPECIES,Lutjanus griseus,2384986
+5,Perciformes,Malacanthidae,Lopholatilus,SPECIES,Lopholatilus chamaeleonticeps,2389833
+363,Perciformes,Moronidae,Morone,SPECIES,Morone americana,2394604
+677,Perciformes,Moronidae,Morone,SPECIES,Morone saxatilis,2394612
+12,Perciformes,,,ORDER,Percoidei,587
+50,Perciformes,Percidae,Etheostoma,SPECIES,Etheostoma fusiforme,2382339
+206,Perciformes,Percidae,Etheostoma,SPECIES,Etheostoma olmstedi,2382257
+440,Perciformes,Percidae,Perca,SPECIES,Perca flavescens,2382004
+15,Perciformes,Percidae,Percina,SPECIES,Percina peltata,2382039
+8,Perciformes,Pholidae,Pholis,SPECIES,Pholis fasciata,5210413
+256,Perciformes,Pholidae,Pholis,SPECIES,Pholis gunnellus,5210421
+321,Perciformes,Pomatomidae,Pomatomus,SPECIES,Pomatomus saltatrix,5208090
+4,Perciformes,Priacanthidae,Heteropriacanthus,SPECIES,Heteropriacanthus cruentatus,2375045
+31,Perciformes,Priacanthidae,Pristigenys,SPECIES,Pristigenys alta,2375079
+10,Perciformes,Rachycentridae,Rachycentron,SPECIES,Rachycentron canadum,2391729
+61,Perciformes,Sciaenidae,Bairdiella,SPECIES,Bairdiella chrysoura,2400214
+51,Perciformes,Sciaenidae,Cynoscion,SPECIES,Cynoscion regalis,2399985
+137,Perciformes,Sciaenidae,Leiostomus,SPECIES,Leiostomus xanthurus,5212294
+17,Perciformes,Sciaenidae,Menticirrhus,SPECIES,Menticirrhus americanus,2400093
+114,Perciformes,Sciaenidae,Menticirrhus,SPECIES,Menticirrhus saxatilis,2400079
+27,Perciformes,Sciaenidae,Micropogonias,SPECIES,Micropogonias undulatus,2399874
+48,Perciformes,Sciaenidae,Pogonias,SPECIES,Pogonias cromis,5212349
+5,Perciformes,Scombridae,Auxis,SPECIES,Auxis rochei,4286088
+13,Perciformes,Scombridae,Euthynnus,SPECIES,Euthynnus alletteratus,5208565
+4,Perciformes,Scombridae,Katsuwonus,SPECIES,Katsuwonus pelamis,2374191
+23,Perciformes,Scombridae,Sarda,SPECIES,Sarda sarda,5208593
+8,Perciformes,Scombridae,Scomberomorus,SPECIES,Scomberomorus maculatus,2374268
+19,Perciformes,Scombridae,Scomber,SPECIES,Scomber colias,2374161
+14152,Perciformes,Scombridae,Scomber,SPECIES,Scomber scombrus,2374149
+12,Perciformes,Scombridae,Thunnus,SPECIES,Thunnus albacares,2374013
+30,Perciformes,Scombridae,Thunnus,SPECIES,Thunnus thynnus,2373980
+5,Perciformes,Serranidae,Anthias,SPECIES,Anthias nicholsi,2387923
+464,Perciformes,Serranidae,Centropristis,SPECIES,Centropristis striata,2387483
+7,Perciformes,Serranidae,Hyporthodus,SPECIES,Hyporthodus niveatus,5788225
+4,Perciformes,Serranidae,Mycteroperca,SPECIES,Mycteroperca phenax,2389053
+27,Perciformes,Sparidae,Archosargus,SPECIES,Archosargus probatocephalus,2392542
+42,Perciformes,Sparidae,Lagodon,SPECIES,Lagodon rhomboides,2392516
+297,Perciformes,Sparidae,Stenotomus,SPECIES,Stenotomus chrysops,2392447
+48,Perciformes,Sphyraenidae,Sphyraena,SPECIES,Sphyraena borealis,2394241
+30,Perciformes,Stichaeidae,Eumesogrammus,SPECIES,Eumesogrammus praecisus,2394920
+9,Perciformes,Stichaeidae,,FAMILY,Stichaeidae,8598
+28,Perciformes,Stichaeidae,Leptoclinus,SPECIES,Lumpenus maculatus,5211314
+24,Perciformes,Stichaeidae,Lumpenus,GENUS,Lumpenus,5211320
+219,Perciformes,Stichaeidae,Lumpenus,SPECIES,Lumpenus lumpretaeformis,5211325
+329,Perciformes,Stichaeidae,Ulvaria,SPECIES,Ulvaria subbifurcata,5211302
+2417,Perciformes,Stromateidae,Peprilus,SPECIES,Peprilus triacanthus,2397711
+6,Perciformes,Trichiuridae,Benthodesmus,SPECIES,Benthodesmus simonyi,2389330
+7,Perciformes,Trichiuridae,Trichiurus,SPECIES,Trichiurus lepturus,2389407
+38,Perciformes,Uranoscopidae,Astroscopus,SPECIES,Astroscopus guttatus,2394348
+4,Perciformes,Xiphiidae,Xiphias,SPECIES,Xiphias gladius,2397850
+4,Perciformes,Zoarcidae,Gymnelus,SPECIES,Gymnelis viridis,2380950
+12,Perciformes,Zoarcidae,Lycenchelys,SPECIES,Lycenchelys paxillus,2380587
+32,Perciformes,Zoarcidae,Lycenchelys,SPECIES,Lycenchelys verrilli,2380616
+38,Perciformes,Zoarcidae,Lycodes,GENUS,Lycodes,2380703
+25,Perciformes,Zoarcidae,Lycodes,SPECIES,Lycodes vahlii,5209425
+131,Perciformes,Zoarcidae,Melanostigma,SPECIES,Melanostigma atlanticum,5209502
+9165,Perciformes,Zoarcidae,Zoarces,SPECIES,Zoarces americanus,2380998
+30,Percopsiformes,Aphredoderidae,Aphredoderus,SPECIES,Aphredoderus sayanus,2401749
+7,Percopsiformes,Aphredoderidae,Aphredoderus,SUBSPECIES,Aphredoderus sayanus sayanus,6166249
+7,Petromyzontiformes,Petromyzontidae,Lethenteron,SPECIES,Lethenteron appendix,2421396
+347,Petromyzontiformes,Petromyzontidae,Petromyzon,SPECIES,Petromyzon marinus,8236498
+28,Pleuronectiformes,Achiridae,Trinectes,SPECIES,Trinectes maculatus,2408252
+29,Pleuronectiformes,Cynoglossidae,Symphurus,GENUS,Symphurus,2409433
+31,Pleuronectiformes,Cynoglossidae,Symphurus,SPECIES,Symphurus diomedeanus,2409438
+7,Pleuronectiformes,Cynoglossidae,Symphurus,SPECIES,Symphurus plagiusa,2409475
+1435,Pleuronectiformes,Paralichthyidae,Citharichthys,SPECIES,Citharichthys arctifrons,2408719
+13,Pleuronectiformes,Paralichthyidae,Etropus,SPECIES,Etropus microstomus,2408956
+4998,Pleuronectiformes,Paralichthyidae,Hippoglossina,SPECIES,Hippoglossina oblonga,2408805
+8,Pleuronectiformes,Paralichthyidae,Hippoglossina,SPECIES,Paralichthys oblongus,2408807
+700,Pleuronectiformes,Paralichthyidae,Paralichthys,SPECIES,Paralichthys dentatus,2408866
+4,Pleuronectiformes,Pleuronectidae,,FAMILY,Pleuronectidae,8611
+9138,Pleuronectiformes,Pleuronectidae,Glyptocephalus,SPECIES,Glyptocephalus cynoglossus,5213996
+22609,Pleuronectiformes,Pleuronectidae,Hippoglossoides,SPECIES,Hippoglossoides platessoides,2409104
+3077,Pleuronectiformes,Pleuronectidae,Hippoglossus,SPECIES,Hippoglossus hippoglossus,2409218
+33649,Pleuronectiformes,Pleuronectidae,Limanda,SPECIES,Limanda ferruginea,5213953
+19388,Pleuronectiformes,Pleuronectidae,Pseudopleuronectes,SPECIES,Pseudopleuronectes americanus,2409062
+336,Pleuronectiformes,Pleuronectidae,Reinhardtius,SPECIES,Reinhardtius hippoglossoides,2409383
+12974,Pleuronectiformes,Scophthalmidae,Scophthalmus,SPECIES,Scophthalmus aquosus,2409401
+17,Polymixiiformes,Polymixiidae,Polymixia,SPECIES,Polymixia lowei,2410398
+4,Polymixiiformes,Polymixiidae,Polymixia,SPECIES,Polymixia nobilis,2410396
+6,Salmoniformes,Salmonidae,,FAMILY,Salmo trutta × Salvelinus fontinalis,8615
+170,Salmoniformes,Salmonidae,Oncorhynchus,SPECIES,Oncorhynchus mykiss,5204019
+8,Salmoniformes,Salmonidae,Oncorhynchus,SPECIES,Oncorhynchus nerka,5204039
+15,Salmoniformes,Salmonidae,Salmo,SPECIES,Salmo salar,7595433
+126,Salmoniformes,Salmonidae,Salmo,SPECIES,Salmo trutta,8215487
+284,Salmoniformes,Salmonidae,Salvelinus,SPECIES,Salvelinus fontinalis,2351271
+14,Salmoniformes,Salmonidae,Salvelinus,SPECIES,Salvelinus fontinalis fontinalis,2351271
+17,Salmoniformes,Salmonidae,Salvelinus,SPECIES,Salvelinus namaycush,2351327
+2398,Scorpaeniformes,Agonidae,Aspidophoroides,SPECIES,Aspidophoroides monopterygius,2337193
+5,Scorpaeniformes,Agonidae,Aspidophoroides,SPECIES,Aspidophoroides olriki,2337217
+66,Scorpaeniformes,Agonidae,,FAMILY,Agonidae,8617
+6,Scorpaeniformes,Agonidae,Leptagonus,SPECIES,Leptagonus decagonus,2337186
+478,Scorpaeniformes,Cottidae,Artediellus,SPECIES,Artediellus atlanticus,2334289
+268,Scorpaeniformes,Cottidae,Artediellus,SPECIES,Artediellus uncinatus,2334285
+65,Scorpaeniformes,Cottidae,Artediellus,GENUS,Artediellus,2334270
+24,Scorpaeniformes,Cottidae,Cottus,SPECIES,Cottus cognatus,2334185
+11,Scorpaeniformes,Cottidae,Cottus,SPECIES,Cottus immaculatus,5962227
+18,Scorpaeniformes,Cottidae,,FAMILY,Cottidae,8621
+60,Scorpaeniformes,Cottidae,Icelus,SPECIES,Icelus spatula,5201205
+21,Scorpaeniformes,Cottidae,Myoxocephalus,GENUS,Myoxocephalus,2333775
+524,Scorpaeniformes,Cottidae,Myoxocephalus,SPECIES,Myoxocephalus aenaeus,2333799
+37069,Scorpaeniformes,Cottidae,Myoxocephalus,SPECIES,Myoxocephalus octodecemspinosus,2333802
+123,Scorpaeniformes,Cottidae,Myoxocephalus,SPECIES,Myoxocephalus scorpius,2333785
+25,Scorpaeniformes,Cottidae,Triglops,GENUS,Triglops,2334023
+3582,Scorpaeniformes,Cottidae,Triglops,SPECIES,Triglops murrayi,2334048
+375,Scorpaeniformes,Cyclopteridae,Cyclopterus,SPECIES,Cyclopterus lumpus,5962255
+64,Scorpaeniformes,Cyclopteridae,Eumicrotremus,SPECIES,Eumicrotremus spinosus,2336857
+13463,Scorpaeniformes,Hemitripteridae,Hemitripterus,SPECIES,Hemitripterus americanus,7938309
+8,Scorpaeniformes,Liparidae,Careproctus,SPECIES,Careproctus ranula,2336141
+5,Scorpaeniformes,Liparidae,Careproctus,SPECIES,Careproctus reinhardti,2336181
+55,Scorpaeniformes,Liparidae,Liparis,GENUS,Liparis,2335959
+71,Scorpaeniformes,Liparidae,Liparis,SPECIES,Liparis atlanticus,5201436
+67,Scorpaeniformes,Liparidae,Liparis,SPECIES,Liparis fabricii,5201468
+49,Scorpaeniformes,Liparidae,Liparis,SPECIES,Liparis gibbus,5201429
+35,Scorpaeniformes,Liparidae,Liparis,SPECIES,Liparis inquilinus,5201465
+4,Scorpaeniformes,Liparidae,Liparis,SPECIES,Liparis liparis,5712338
+5,Scorpaeniformes,Liparidae,Liparis,SPECIES,Liparis tunicatus,5201492
+4,Scorpaeniformes,Liparidae,Paraliparis,SPECIES,Paraliparis copei,4286437
+4,Scorpaeniformes,Liparidae,Paraliparis,SPECIES,Paraliparis garmani,2336334
+55,Scorpaeniformes,Peristediidae,Peristedion,SPECIES,Peristedion miniatum,2335006
+16,Scorpaeniformes,Psychrolutidae,Cottunculus,SPECIES,Cottunculus microps,2334890
+8,Scorpaeniformes,Scorpaenidae,,FAMILY,Scorpaenidae,4508
+8453,Scorpaeniformes,Sebastidae,Helicolenus,SPECIES,Helicolenus dactylopterus,4286361
+55878,Scorpaeniformes,Sebastidae,Sebastes,GENUS,Sebastes,2333712
+31,Scorpaeniformes,Sebastidae,Sebastes,SPECIES,Sebastes fasciatus,10689065
+4,Scorpaeniformes,Triglidae,,FAMILY,Triglidae,8635
+326,Scorpaeniformes,Triglidae,Prionotus,SPECIES,Prionotus carolinus,5201557
+204,Scorpaeniformes,Triglidae,Prionotus,SPECIES,Prionotus evolans,5201545
+65,Siluriformes,Ictaluridae,Ameiurus,SPECIES,Ameiurus catus,2340972
+76,Siluriformes,Ictaluridae,Ameiurus,SPECIES,Ameiurus natalis,2340969
+271,Siluriformes,Ictaluridae,Ameiurus,SPECIES,Ameiurus nebulosus,2340989
+12,Siluriformes,Ictaluridae,Ameiurus,GENUS,Ameiurus,2340965
+5,Siluriformes,Ictaluridae,Ictalurus,SPECIES,Ictalurus furcatus,5202525
+149,Siluriformes,Ictaluridae,Ictalurus,SPECIES,Ictalurus punctatus,5202520
+40,Siluriformes,Ictaluridae,Noturus,SPECIES,Noturus gyrinus,2341016
+30,Siluriformes,Ictaluridae,Noturus,SPECIES,Noturus insignis,2341009
+4,Siluriformes,Ictaluridae,Pylodictis,SPECIES,Pylodictis olivaris,2341077
+23,Stomiiformes,Gonostomatidae,,FAMILY,Gonostomatidae,5905
+8,Stomiiformes,Gonostomatidae,Sigmops,SPECIES,Gonostoma bathyphilum,5203368
+5,Stomiiformes,Gonostomatidae,Sigmops,SPECIES,Gonostoma elongatum,5203363
+17,Stomiiformes,Sternoptychidae,Argyropelecus,SPECIES,Argyropelecus aculeatus,2347579
+26,Stomiiformes,Sternoptychidae,,FAMILY,Sternoptychidae,2226
+399,Stomiiformes,Sternoptychidae,Maurolicus,SPECIES,Maurolicus muelleri,2347501
+6,Stomiiformes,Sternoptychidae,Polyipnus,GENUS,Polyipnus,2347513
+4,Stomiiformes,Sternoptychidae,Polyipnus,SPECIES,Polyipnus clarus,2347529
+4,Stomiiformes,Stomiidae,Borostomias,SPECIES,Borostomias antarcticus,2347213
+87,Stomiiformes,Stomiidae,Chauliodus,SPECIES,Chauliodus sloani,5203203
+4,Stomiiformes,Stomiidae,,FAMILY,Stomiidae,2225
+288,Stomiiformes,Stomiidae,Stomias,SPECIES,Stomias boa,2346868
+20,Syngnathiformes,Fistulariidae,Fistularia,SPECIES,Fistularia tabacaria,5200941
+143,Syngnathiformes,Syngnathidae,Hippocampus,SPECIES,Hippocampus erectus,5201075
+61,Syngnathiformes,Syngnathidae,Syngnathus,GENUS,Syngnathus,2332887
+326,Syngnathiformes,Syngnathidae,Syngnathus,SPECIES,Syngnathus fuscus,2332955
+52,Tetraodontiformes,Balistidae,Balistes,SPECIES,Balistes capriscus,2407107
+180,Tetraodontiformes,Diodontidae,Chilomycterus,SPECIES,Chilomycterus schoepfii,2406494
+319,Tetraodontiformes,Molidae,Mola,SPECIES,Mola mola,5213725
+5,Tetraodontiformes,Monacanthidae,Aluterus,SPECIES,Aluterus schoepfii,2406748
+22,Tetraodontiformes,Monacanthidae,Stephanolepis,SPECIES,Stephanolepis hispida,5213455
+203,Tetraodontiformes,Tetraodontidae,Sphoeroides,SPECIES,Sphoeroides maculatus,2407857
+7,Tetraodontiformes,Tetraodontidae,Sphoeroides,SPECIES,Sphoeroides spengleri,2407829
+6,Zeiformes,Grammicolepididae,Xenolepidichthys,SPECIES,Xenolepidichthys dalgleishi,2415264
+4,Zeiformes,Parazenidae,Cyttopsis,SPECIES,Cyttopsis rosea,2415284
+4,Zeiformes,Zeidae,Zenopsis,SPECIES,Zenopsis conchifer,2415247
+92,Zeiformes,Zeidae,Zenopsis,SPECIES,Zenopsis ocellata,2415249

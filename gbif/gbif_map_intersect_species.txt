@@ -1,10 +1,22 @@
 count,order,family,genus,level,genus_species,ID,in_refdb
+234836,Gadiformes,Gadidae,Melanogrammus,SPECIES,Melanogrammus aeglefinus,2415822,MATCH
+101913,Gadiformes,Merlucciidae,Merluccius,SPECIES,Merluccius bilinearis,2415637,MATCH
 48289,Clupeiformes,Clupeidae,Clupea,SPECIES,Clupea harengus,8351946,MATCH
 47390,Gadiformes,Gadidae,Gadus,SPECIES,Gadus morhua,8084280,MATCH
 47329,Squaliformes,Squalidae,Squalus,SPECIES,Squalus acanthias,5216368,MATCH
 37069,Scorpaeniformes,Cottidae,Myoxocephalus,SPECIES,Myoxocephalus octodecemspinosus,2333802,MATCH
 36334,Rajiformes,Rajidae,Leucoraja,SPECIES,Leucoraja ocellata,2419886,MATCH
 33649,Pleuronectiformes,Pleuronectidae,Limanda,SPECIES,Limanda ferruginea,5213953,NO MATCH
+27050,Rajiformes,Rajidae,Leucoraja,SPECIES,Leucoraja erinacea,2419879,MATCH
+22609,Pleuronectiformes,Pleuronectidae,Hippoglossoides,SPECIES,Hippoglossoides platessoides,2409104,MATCH
+20756,Gadiformes,Gadidae,Pollachius,SPECIES,Pollachius virens,2415861,MATCH
+19388,Pleuronectiformes,Pleuronectidae,Pseudopleuronectes,SPECIES,Pseudopleuronectes americanus,2409062,MATCH
+17442,Gadiformes,Phycidae,Urophycis,SPECIES,Urophycis tenuis,2415734,MATCH
+16740,Gadiformes,Phycidae,Urophycis,SPECIES,Urophycis chuss,2415718,MATCH
+14152,Perciformes,Scombridae,Scomber,SPECIES,Scomber scombrus,2374149,MATCH
+13463,Scorpaeniformes,Hemitripteridae,Hemitripterus,SPECIES,Hemitripterus americanus,7938309,MATCH
+12974,Pleuronectiformes,Scophthalmidae,Scophthalmus,SPECIES,Scophthalmus aquosus,2409401,MATCH
+10177,Clupeiformes,Clupeidae,Alosa,SPECIES,Alosa pseudoharengus,2412740,MATCH
 9165,Perciformes,Zoarcidae,Zoarces,SPECIES,Zoarces americanus,2380998,MATCH
 9138,Pleuronectiformes,Pleuronectidae,Glyptocephalus,SPECIES,Glyptocephalus cynoglossus,5213996,MATCH
 8453,Scorpaeniformes,Sebastidae,Helicolenus,SPECIES,Helicolenus dactylopterus,4286361,MATCH
@@ -15,8 +27,25 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 3582,Scorpaeniformes,Cottidae,Triglops,SPECIES,Triglops murrayi,2334048,MATCH
 3077,Pleuronectiformes,Pleuronectidae,Hippoglossus,SPECIES,Hippoglossus hippoglossus,2409218,MATCH
 3007,Perciformes,Anarhichadidae,Anarhichas,SPECIES,Anarhichas lupus,8006460,MATCH
+2999,Lophiiformes,Lophiidae,Lophius,SPECIES,Lophius americanus,2415069,MATCH
+2636,Clupeiformes,Clupeidae,Alosa,SPECIES,Alosa sapidissima,2412661,MATCH
+2417,Perciformes,Stromateidae,Peprilus,SPECIES,Peprilus triacanthus,2397711,MATCH
+2398,Scorpaeniformes,Agonidae,Aspidophoroides,SPECIES,Aspidophoroides monopterygius,2337193,MATCH
+2178,Rajiformes,Rajidae,Dipturus,SPECIES,Dipturus laevis,2420230,MATCH
+2165,Gadiformes,Lotidae,Brosme,SPECIES,Brosme brosme,2415505,MATCH
+2063,Perciformes,Ammodytidae,Ammodytes,SPECIES,Ammodytes dubius,2389990,MATCH
+1952,Gadiformes,Phycidae,Phycis,SPECIES,Urophycis chesteri,2415714,NO MATCH
+1695,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis macrochirus,2394503,MATCH
+1435,Pleuronectiformes,Paralichthyidae,Citharichthys,SPECIES,Citharichthys arctifrons,2408719,MATCH
+1430,Perciformes,Labridae,Tautogolabrus,SPECIES,Tautogolabrus adspersus,2382945,MATCH
+1254,Neogastropoda,Nassariidae,Ilyanassa,SPECIES,Ilyanassa obsoleta,2302982,NO MATCH
+1087,Myxiniformes,Myxinidae,Myxine,SPECIES,Myxine glutinosa,2498670,MATCH
+1062,Clupeiformes,Clupeidae,Brevoortia,SPECIES,Brevoortia tyrannus,5214544,MATCH
+1046,Perciformes,Centrarchidae,Micropterus,SPECIES,Micropterus salmoides,2394563,MATCH
+1015,Neogastropoda,Busyconidae,Busycon,SPECIES,Busycon carica,2302937,NO MATCH
 830,Neogastropoda,Muricidae,Nucella,SPECIES,Nucella lapillus,5193449,NO MATCH
 755,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis gibbosus,2394486,MATCH
+710,Neogastropoda,Busyconidae,Busycotypus,SPECIES,Busycotypus canaliculatus,2302958,NO MATCH
 700,Pleuronectiformes,Paralichthyidae,Paralichthys,SPECIES,Paralichthys dentatus,2408866,MATCH
 677,Perciformes,Moronidae,Morone,SPECIES,Morone saxatilis,2394612,MATCH
 632,Cyprinodontiformes,Fundulidae,Fundulus,SPECIES,Fundulus heteroclitus,5712056,MATCH
@@ -28,8 +57,10 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 478,Scorpaeniformes,Cottidae,Artediellus,SPECIES,Artediellus atlanticus,2334289,MATCH
 464,Clupeiformes,Clupeidae,Alosa,SPECIES,Alosa aestivalis,2412708,MATCH
 464,Perciformes,Serranidae,Centropristis,SPECIES,Centropristis striata,2387483,MATCH
+458,Neogastropoda,Nassariidae,Ilyanassa,SPECIES,Ilyanassa trivittata,2303000,NO MATCH
 457,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis auritus,2394491,MATCH
 440,Perciformes,Percidae,Perca,SPECIES,Perca flavescens,2382004,MATCH
+420,Neogastropoda,Buccinidae,Buccinum,SPECIES,Buccinum undatum,2305073,NO MATCH
 399,Stomiiformes,Sternoptychidae,Maurolicus,SPECIES,Maurolicus muelleri,2347501,MATCH
 397,Esociformes,Esocidae,Esox,SPECIES,Esox niger,2346629,MATCH
 390,Neogastropoda,Muricidae,Urosalpinx,SPECIES,Urosalpinx cinerea,2304415,NO MATCH
@@ -49,6 +80,54 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 314,Cyprinodontiformes,Fundulidae,Fundulus,SPECIES,Fundulus diaphanus,5712054,MATCH
 309,Cyprinodontiformes,Fundulidae,Fundulus,SPECIES,Fundulus majalis,5203628,MATCH
 307,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis cyanellus,2394494,MATCH
+298,Batrachoidiformes,Batrachoididae,Opsanus,SPECIES,Opsanus tau,2350910,MATCH
+298,Perciformes,Centrarchidae,Pomoxis,SPECIES,Pomoxis nigromaculatus,2394526,MATCH
+297,Perciformes,Sparidae,Stenotomus,SPECIES,Stenotomus chrysops,2392447,MATCH
+294,Perciformes,Centrarchidae,Micropterus,SPECIES,Micropterus dolomieu,5211250,MATCH
+288,Cypriniformes,Cyprinidae,Cyprinus,SPECIES,Cyprinus carpio,4286975,MATCH
+288,Stomiiformes,Stomiidae,Stomias,SPECIES,Stomias boa,2346868,MATCH
+284,Salmoniformes,Salmonidae,Salvelinus,SPECIES,Salvelinus fontinalis,2351271,MATCH
+271,Cypriniformes,Cyprinidae,Rhinichthys,SPECIES,Rhinichthys atratulus,2359823,MATCH
+271,Siluriformes,Ictaluridae,Ameiurus,SPECIES,Ameiurus nebulosus,2340989,MATCH
+268,Scorpaeniformes,Cottidae,Artediellus,SPECIES,Artediellus uncinatus,2334285,MATCH
+256,Perciformes,Pholidae,Pholis,SPECIES,Pholis gunnellus,5210421,MATCH
+249,Cypriniformes,Cyprinidae,Semotilus,SPECIES,Semotilus atromaculatus,2360481,MATCH
+245,Cypriniformes,Cyprinidae,Notemigonus,SPECIES,Notemigonus crysoleucas,2363714,MATCH
+219,Perciformes,Stichaeidae,Lumpenus,SPECIES,Lumpenus lumpretaeformis,5211325,NO MATCH
+217,Rajiformes,Rajidae,Raja,SPECIES,Rostroraja eglanteria,11005272,NO MATCH
+212,Aulopiformes,Paralepididae,Arctozenus,SPECIES,Notolepis rissoi,2401552,NO MATCH
+206,Gadiformes,Phycidae,Urophycis,SPECIES,Urophycis regia,2415740,MATCH
+206,Perciformes,Percidae,Etheostoma,SPECIES,Etheostoma olmstedi,2382257,MATCH
+204,Scorpaeniformes,Triglidae,Prionotus,SPECIES,Prionotus evolans,5201545,MATCH
+203,Tetraodontiformes,Tetraodontidae,Sphoeroides,SPECIES,Sphoeroides maculatus,2407857,MATCH
+201,Cypriniformes,Catostomidae,Catostomus,SPECIES,Catostomus commersonii,2359014,MATCH
+186,Anguilliformes,Synaphobranchidae,Synaphobranchus,SPECIES,Synaphobranchus kaupi,2402847,NO MATCH
+184,Cyprinodontiformes,Cyprinodontidae,Cyprinodon,SPECIES,Cyprinodon variegatus,4284440,MATCH
+183,Cypriniformes,Cyprinidae,Luxilus,SPECIES,Luxilus cornutus,2366967,MATCH
+180,Tetraodontiformes,Diodontidae,Chilomycterus,SPECIES,Chilomycterus schoepfii,2406494,MATCH
+170,Salmoniformes,Salmonidae,Oncorhynchus,SPECIES,Oncorhynchus mykiss,5204019,MATCH
+156,Cypriniformes,Cyprinidae,Carassius,SPECIES,Carassius auratus,4286942,MATCH
+155,Aulopiformes,Chlorophthalmidae,Chlorophthalmus,SPECIES,Chlorophthalmus agassizi,2401401,MATCH
+149,Siluriformes,Ictaluridae,Ictalurus,SPECIES,Ictalurus punctatus,5202520,MATCH
+148,Anguilliformes,Nemichthyidae,Nemichthys,SPECIES,Nemichthys scolopaceus,2403686,MATCH
+148,Cypriniformes,Cyprinidae,Semotilus,SPECIES,Semotilus corporalis,2360492,MATCH
+143,Aulopiformes,Chlorophthalmidae,Parasudis,SPECIES,Parasudis truculenta,2401380,MATCH
+143,Syngnathiformes,Syngnathidae,Hippocampus,SPECIES,Hippocampus erectus,5201075,MATCH
+137,Perciformes,Sciaenidae,Leiostomus,SPECIES,Leiostomus xanthurus,5212294,MATCH
+134,Cyprinodontiformes,Poeciliidae,Gambusia,SPECIES,Gambusia holbrooki,2350570,MATCH
+131,Perciformes,Zoarcidae,Melanostigma,SPECIES,Melanostigma atlanticum,5209502,MATCH
+126,Salmoniformes,Salmonidae,Salmo,SPECIES,Salmo trutta,8215487,MATCH
+123,Scorpaeniformes,Cottidae,Myoxocephalus,SPECIES,Myoxocephalus scorpius,2333785,MATCH
+116,Gadiformes,Macrouridae,Coryphaenoides,SPECIES,Coryphaenoides rupestris,5215150,MATCH
+115,Neogastropoda,Buccinidae,Neptunea,SPECIES,Neptunea decemcostata,2304672,NO MATCH
+114,Perciformes,Sciaenidae,Menticirrhus,SPECIES,Menticirrhus saxatilis,2400079,MATCH
+113,Neogastropoda,Muricidae,Eupleura,SPECIES,Eupleura caudata,2304460,NO MATCH
+109,Squaliformes,Etmopteridae,Centroscyllium,SPECIES,Centroscyllium fabricii,2421020,MATCH
+107,Esociformes,Umbridae,Umbra,SPECIES,Umbra pygmaea,5203111,MATCH
+106,Perciformes,Centrarchidae,Ambloplites,SPECIES,Ambloplites rupestris,2394514,MATCH
+106,Perciformes,Centrarchidae,Enneacanthus,SPECIES,Enneacanthus gloriosus,2394551,MATCH
+102,Beloniformes,Belonidae,Strongylura,SPECIES,Strongylura marina,5208028,MATCH
+102,Perciformes,Centrarchidae,Enneacanthus,SPECIES,Enneacanthus obesus,2394549,NO MATCH
 94,Cypriniformes,Cyprinidae,Cyprinus,SPECIES,Cyprinus rubrofuscus,2367196,MATCH
 94,Myctophiformes,Myctophidae,Hygophum,SPECIES,Hygophum hygomi,5213288,NO MATCH
 92,Zeiformes,Zeidae,Zenopsis,SPECIES,Zenopsis ocellata,2415249,NO MATCH
@@ -58,8 +137,8 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 81,Perciformes,Cryptacanthodidae,Cryptacanthodes,SPECIES,Cryptacanthodes maculatus,2387415,MATCH
 76,Siluriformes,Ictaluridae,Ameiurus,SPECIES,Ameiurus natalis,2340969,MATCH
 73,Gasterosteiformes,Gasterosteidae,Apeltes,SPECIES,Apeltes quadracus,5204681,MATCH
-73,Gobiesociformes,Gobiesocidae,Gobiesox,SPECIES,Gobiesox strumosus,2411317,MATCH
 71,Scorpaeniformes,Liparidae,Liparis,SPECIES,Liparis atlanticus,5201436,NO MATCH
+69,Neogastropoda,Columbellidae,Costoanachis,SPECIES,Costoanachis translirata,6506364,NO MATCH
 68,Cyprinodontiformes,Poeciliidae,Gambusia,SPECIES,Gambusia affinis,2350580,MATCH
 67,Scorpaeniformes,Liparidae,Liparis,SPECIES,Liparis fabricii,5201468,MATCH
 66,Osmeriformes,Alepocephalidae,Alepocephalus,SPECIES,Alepocephalus agassizii,5214412,MATCH
@@ -90,12 +169,15 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 45,Cypriniformes,Catostomidae,Erimyzon,SPECIES,Erimyzon oblongus,2358941,MATCH
 44,Cypriniformes,Cyprinidae,Rhinichthys,SPECIES,Rhinichthys cataractae,2359811,MATCH
 43,Cypriniformes,Cyprinidae,Notropis,SPECIES,Notropis procne,2362157,NO MATCH
+43,Neogastropoda,Columbellidae,Astyris,SPECIES,Astyris lunata,2305739,NO MATCH
 42,Perciformes,Blenniidae,Hypsoblennius,SPECIES,Hypsoblennius hentz,2395566,MATCH
 42,Perciformes,Sparidae,Lagodon,SPECIES,Lagodon rhomboides,2392516,MATCH
 40,Cyprinodontiformes,Fundulidae,Lucania,SPECIES,Lucania parva,2349567,MATCH
+40,Lamniformes,Cetorhinidae,Cetorhinus,SPECIES,Cetorhinus maximus,2420726,MATCH
 40,Siluriformes,Ictaluridae,Noturus,SPECIES,Noturus gyrinus,2341016,MATCH
 39,Esociformes,Esocidae,Esox,SPECIES,Esox americanus,4284046,MATCH
 38,Perciformes,Uranoscopidae,Astroscopus,SPECIES,Astroscopus guttatus,2394348,NO MATCH
+37,Beloniformes,Scomberesocidae,Scomberesox,SPECIES,Scomberesox saurus,2369272,MATCH
 37,Gadiformes,Gadidae,Microgadus,SPECIES,Microgadus tomcod,2415893,MATCH
 37,Perciformes,Gobiidae,Gobiosoma,SPECIES,Gobiosoma bosc,5208832,MATCH
 36,Perciformes,Coryphaenidae,Coryphaena,SPECIES,Coryphaena hippurus,2381939,MATCH
@@ -110,6 +192,7 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 32,Perciformes,Acropomatidae,Synagrops,SPECIES,Synagrops bella,2381532,NO MATCH
 32,Perciformes,Ammodytidae,Ammodytes,SPECIES,Ammodytes americanus,2389998,MATCH
 32,Perciformes,Zoarcidae,Lycenchelys,SPECIES,Lycenchelys verrilli,2380616,NO MATCH
+31,Neogastropoda,Colidae,Colus,SPECIES,Colus stimpsoni,5193520,NO MATCH
 31,Perciformes,Priacanthidae,Pristigenys,SPECIES,Pristigenys alta,2375079,NO MATCH
 31,Pleuronectiformes,Cynoglossidae,Symphurus,SPECIES,Symphurus diomedeanus,2409438,NO MATCH
 31,Scorpaeniformes,Sebastidae,Sebastes,SPECIES,Sebastes fasciatus,10689065,MATCH
@@ -117,7 +200,98 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 30,Perciformes,Stichaeidae,Eumesogrammus,SPECIES,Eumesogrammus praecisus,2394920,MATCH
 30,Percopsiformes,Aphredoderidae,Aphredoderus,SPECIES,Aphredoderus sayanus,2401749,MATCH
 30,Siluriformes,Ictaluridae,Noturus,SPECIES,Noturus insignis,2341009,MATCH
+29,Torpediniformes,Torpedinidae,Tetronarce,SPECIES,Tetronarce occidentalis,11103867,NO MATCH
+28,Cypriniformes,Cyprinidae,Pimephales,SPECIES,Pimephales promelas,2367742,MATCH
+28,Perciformes,Stichaeidae,Leptoclinus,SPECIES,Lumpenus maculatus,5211314,NO MATCH
+28,Pleuronectiformes,Achiridae,Trinectes,SPECIES,Trinectes maculatus,2408252,MATCH
+27,Clupeiformes,Clupeidae,Alosa,SPECIES,Alosa mediocris,2412699,MATCH
+27,Myliobatiformes,Myliobatidae,Myliobatis,SPECIES,Myliobatis freminvillei,2419292,MATCH
+27,Gadiformes,Macrouridae,Coryphaenoides,SPECIES,Coryphaenoides carapinus,5215212,NO MATCH
+27,Myctophiformes,Myctophidae,Lampanyctus,SPECIES,Lampanyctus macdonaldi,2405998,MATCH
+27,Perciformes,Carangidae,Caranx,SPECIES,Caranx hippos,2390778,MATCH
+27,Perciformes,Haemulidae,Orthopristis,SPECIES,Orthopristis chrysoptera,2382797,NO MATCH
+27,Perciformes,Sciaenidae,Micropogonias,SPECIES,Micropogonias undulatus,2399874,MATCH
+27,Perciformes,Sparidae,Archosargus,SPECIES,Archosargus probatocephalus,2392542,MATCH
+26,Lamniformes,Odontaspididae,Carcharias,SPECIES,Carcharias taurus,2420766,NO MATCH
+25,Perciformes,Zoarcidae,Lycodes,SPECIES,Lycodes vahlii,5209425,MATCH
+24,Carcharhiniformes,Carcharhinidae,Carcharhinus,SPECIES,Carcharhinus plumbeus,2418009,MATCH
+24,Gadiformes,Moridae,Antimora,SPECIES,Antimora rostrata,2417115,MATCH
+24,Gasterosteiformes,Gasterosteidae,Gasterosteus,SPECIES,Gasterosteus aculeatus,4286327,MATCH
+24,Gasterosteiformes,Gasterosteidae,Pungitius,SPECIES,Pungitius pungitius,5739510,MATCH
+24,Perciformes,Lutjanidae,Lutjanus,SPECIES,Lutjanus griseus,2384986,MATCH
+24,Scorpaeniformes,Cottidae,Cottus,SPECIES,Cottus cognatus,2334185,MATCH
+23,Notacanthiformes,Halosauridae,Halosauropsis,SPECIES,Halosauropsis macrochir,2405479,MATCH
+23,Perciformes,Scombridae,Sarda,SPECIES,Sarda sarda,5208593,MATCH
+22,Anguilliformes,Derichthyidae,Nessorhamphus,SPECIES,Nessorhamphus ingolfianus,2405407,MATCH
+22,Clupeiformes,Engraulidae,Anchoa,SPECIES,Anchoa hepsetus,2413913,MATCH
+22,Perciformes,Gobiidae,Gobiosoma,SPECIES,Gobiosoma ginsburgi,5208834,MATCH
+22,Tetraodontiformes,Monacanthidae,Stephanolepis,SPECIES,Stephanolepis hispida,5213455,NO MATCH
+21,Atheriniformes,Atherinopsidae,Menidia,SPECIES,Menidia beryllina,2412295,MATCH
+21,Aulopiformes,Synodontidae,Synodus,SPECIES,Synodus foetens,5212651,MATCH
+21,Myctophiformes,Myctophidae,Myctophum,SPECIES,Myctophum punctatum,2405855,MATCH
+21,Perciformes,Centrarchidae,Pomoxis,SPECIES,Pomoxis annularis,2394534,MATCH
+20,Cypriniformes,Cyprinidae,Hybognathus,SPECIES,Hybognathus regius,2364402,MATCH
+20,Osmeriformes,Bathylagidae,Bathylagus,SPECIES,Bathylagus euryops,2410971,MATCH
+20,Perciformes,Callionymidae,Foetorepus,SPECIES,Foetorepus agassizi,2386564,NO MATCH
+20,Syngnathiformes,Fistulariidae,Fistularia,SPECIES,Fistularia tabacaria,5200941,NO MATCH
+19,Cypriniformes,Cobitidae,Misgurnus,SPECIES,Misgurnus anguillicaudatus,2367919,MATCH
+19,Cypriniformes,Cyprinidae,Notropis,SPECIES,Notropis amoenus,2362198,NO MATCH
+19,Notacanthiformes,Halosauridae,Aldrovandia,SPECIES,Aldrovandia phalacra,5213264,MATCH
+19,Perciformes,Carangidae,Caranx,SPECIES,Caranx crysos,2390762,MATCH
+19,Perciformes,Carangidae,Trachinotus,SPECIES,Trachinotus carolinus,5210681,MATCH
+19,Perciformes,Scombridae,Scomber,SPECIES,Scomber colias,2374161,MATCH
+18,Cypriniformes,Cyprinidae,Notropis,SPECIES,Notropis chalybaeus,2362302,MATCH
+18,Cyprinodontiformes,Fundulidae,Fundulus,SPECIES,Fundulus luciae,5203663,MATCH
+18,Lamniformes,Lamnidae,Carcharodon,SPECIES,Carcharodon carcharias,2420694,MATCH
+18,Chimaeriformes,Rhinochimaeridae,Harriotta,SPECIES,Harriotta raleighana,2417430,MATCH
+18,Perciformes,Blenniidae,Chasmodes,SPECIES,Chasmodes bosquianus,5211360,MATCH
+18,Perciformes,Carangidae,Seriola,SPECIES,Seriola zonata,5961719,NO MATCH
+18,Perciformes,Centrarchidae,Acantharchus,SPECIES,Acantharchus pomotis,2394540,NO MATCH
+17,Anguilliformes,Serrivomeridae,Serrivomer,SPECIES,Serrivomer beani,2403665,NO MATCH
+17,Anguilliformes,Synaphobranchidae,Simenchelys,SPECIES,Simenchelys parasitica,2402878,MATCH
+17,Perciformes,Carangidae,Selene,SPECIES,Selene vomer,2390711,MATCH
+17,Perciformes,Sciaenidae,Menticirrhus,SPECIES,Menticirrhus americanus,2400093,MATCH
+17,Polymixiiformes,Polymixiidae,Polymixia,SPECIES,Polymixia lowei,2410398,MATCH
+17,Salmoniformes,Salmonidae,Salvelinus,SPECIES,Salvelinus namaycush,2351327,MATCH
+17,Stomiiformes,Sternoptychidae,Argyropelecus,SPECIES,Argyropelecus aculeatus,2347579,MATCH
+16,Anguilliformes,Ophichthidae,Ophichthus,SPECIES,Ophichthus cruentifer,5213135,NO MATCH
+16,Perciformes,Caproidae,Antigonia,SPECIES,Antigonia capros,2389693,MATCH
+16,Perciformes,Gerreidae,Eucinostomus,SPECIES,Eucinostomus harengulus,2369478,NO MATCH
+16,Scorpaeniformes,Psychrolutidae,Cottunculus,SPECIES,Cottunculus microps,2334890,MATCH
+15,Orectolobiformes,Rhincodontidae,Rhincodon,SPECIES,Rhincodon typus,2417522,MATCH
+15,Perciformes,Percidae,Percina,SPECIES,Percina peltata,2382039,MATCH
+15,Salmoniformes,Salmonidae,Salmo,SPECIES,Salmo salar,7595433,MATCH
+14,Lamniformes,Lamnidae,Lamna,SPECIES,Lamna nasus,5216239,MATCH
+14,Myliobatiformes,Dasyatidae,Bathytoshia,SPECIES,Bathytoshia centroura,9363791,MATCH
+14,Neogastropoda,Mangeliidae,Pyrgocythara,SPECIES,Pyrgocythara plicosa,2303887,NO MATCH
+14,Ophidiiformes,Ophidiidae,Ophidion,SPECIES,Ophidion marginatum,5203038,MATCH
+14,Perciformes,Centrarchidae,Lepomis,SPECIES,Lepomis microlophus,2394501,MATCH
+14,Salmoniformes,Salmonidae,Salvelinus,SPECIES,Salvelinus fontinalis fontinalis,2351271,NO MATCH
+13,Myliobatiformes,Myliobatidae,Mobula,SPECIES,Mobula tarapacana,2419179,MATCH
+13,Rajiformes,Rajidae,Raja,SPECIES,Raja eglanteria,5216061,MATCH
+13,Torpediniformes,Torpedinidae,Tetronarce,SPECIES,Torpedo nobiliana,5215510,NO MATCH
+13,Lophiiformes,Ogcocephalidae,Dibranchus,SPECIES,Dibranchus atlanticus,2414913,MATCH
+13,Myctophiformes,Myctophidae,Ceratoscopelus,SPECIES,Ceratoscopelus maderensis,2406043,MATCH
+13,Perciformes,Scombridae,Euthynnus,SPECIES,Euthynnus alletteratus,5208565,MATCH
+13,Pleuronectiformes,Paralichthyidae,Etropus,SPECIES,Etropus microstomus,2408956,MATCH
+12,Acipenseriformes,Acipenseridae,Acipenser,SPECIES,Acipenser brevirostrum,2402192,MATCH
+12,Lamniformes,Alopiidae,Alopias,SPECIES,Alopias vulpinus,2420797,MATCH
+12,Rajiformes,Rajidae,Rajella,SPECIES,Rajella fyllae,2420418,MATCH
+12,Perciformes,Scombridae,Thunnus,SPECIES,Thunnus albacares,2374013,MATCH
+12,Perciformes,Zoarcidae,Lycenchelys,SPECIES,Lycenchelys paxillus,2380587,MATCH
+11,Amiiformes,Amiidae,Amia,SPECIES,Amia ocellicauda,5207901,NO MATCH
+11,Beloniformes,Hemiramphidae,Hyporhamphus,SPECIES,Hyporhamphus meeki,2368890,MATCH
+11,Cypriniformes,Cyprinidae,Ctenopharyngodon,SPECIES,Ctenopharyngodon idella,2362030,MATCH
+11,Carcharhiniformes,Scyliorhinidae,Scyliorhinus,SPECIES,Scyliorhinus retifer,2418664,MATCH
+11,Carcharhiniformes,Sphyrnidae,Sphyrna,SPECIES,Sphyrna lewini,2418789,MATCH
+11,Scorpaeniformes,Cottidae,Cottus,SPECIES,Cottus immaculatus,5962227,NO MATCH
+10,Aulopiformes,Paralepididae,Magnisudis,SPECIES,Paralepis atlantica,7452517,NO MATCH
+10,Clupeiformes,Clupeidae,Sardinella,SPECIES,Sardinella aurita,2412864,MATCH
+10,Neogastropoda,Nassariidae,Phrontis,SPECIES,Phrontis vibex,8652815,NO MATCH
+10,Perciformes,Carangidae,Selar,SPECIES,Selar crumenophthalmus,2391007,MATCH
+10,Perciformes,Rachycentridae,Rachycentron,SPECIES,Rachycentron canadum,2391729,MATCH
 9,Aulopiformes,Bathysauridae,Bathysaurus,SPECIES,Bathysaurus ferox,2401415,MATCH
+9,Lamniformes,Lamnidae,Isurus,SPECIES,Isurus oxyrinchus,5216248,MATCH
 9,Chimaeriformes,Rhinochimaeridae,Rhinochimaera,SPECIES,Rhinochimaera atlantica,2417443,MATCH
 9,Perciformes,Carangidae,Seriola,SPECIES,Seriola rivoliana,5961682,MATCH
 9,Perciformes,Carangidae,Trachurus,SPECIES,Trachurus lathami,5210468,MATCH
@@ -126,6 +300,8 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 8,Cypriniformes,Cyprinidae,Cyprinella,SPECIES,Cyprinella spiloptera,5207691,MATCH
 8,Carcharhiniformes,Carcharhinidae,Galeocerdo,SPECIES,Galeocerdo cuvier,2418234,MATCH
 8,Carcharhiniformes,Scyliorhinidae,Apristurus,SPECIES,Apristurus laurussoni,2418468,NO MATCH
+8,Neogastropoda,Busyconidae,Sinistrofulgur,SPECIES,Sinistrofulgur laeostomum,7886441,NO MATCH
+8,Neogastropoda,Columbellidae,Costoanachis,SPECIES,Costoanachis avara,2305783,NO MATCH
 8,Myxiniformes,Myxinidae,Myxine,SPECIES,Myxine limosa,2498683,NO MATCH
 8,Ophidiiformes,Ophidiidae,Dicrolene,SPECIES,Dicrolene introniger,2346047,NO MATCH
 8,Osmeriformes,Alepocephalidae,Rouleina,SPECIES,Rouleina attrita,5214370,MATCH
@@ -150,6 +326,7 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 6,Cypriniformes,Cyprinidae,Chrosomus,SPECIES,Chrosomus eos,2365385,MATCH
 6,Carcharhiniformes,Scyliorhinidae,Apristurus,SPECIES,Apristurus profundorum,2418478,NO MATCH
 6,Squaliformes,Somniosidae,Centroscymnus,SPECIES,Centroscymnus coelolepis,2421147,NO MATCH
+6,Neogastropoda,Mangeliidae,Kurtziella,SPECIES,Kurtziella cerina,2303529,NO MATCH
 6,Mugiliformes,Mugilidae,Mugil,SPECIES,Mugil cephalus,8189568,MATCH
 6,Perciformes,Carangidae,Decapterus,SPECIES,Decapterus punctatus,2391041,MATCH
 6,Perciformes,Carangidae,Selene,SPECIES,Vomer setapinnis,2390735,NO MATCH
@@ -167,7 +344,6 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 5,Gadiformes,Macrouridae,Macrourus,SPECIES,Macrourus berglax,5215147,MATCH
 5,Gadiformes,Moridae,Halargyreus,SPECIES,Halargyreus johnsonii,2417127,MATCH
 5,Gadiformes,Moridae,Laemonema,SPECIES,Laemonema barbatulum,5215399,MATCH
-5,Lepisosteiformes,Lepisosteidae,Lepisosteus,SPECIES,Lepisosteus osseus,2346701,MATCH
 5,Lophiiformes,Antennariidae,Histrio,SPECIES,Histrio histrio,5214666,MATCH
 5,Osmeriformes,Platytroctidae,Holtbyrnia,SPECIES,Holtbyrnia anomala,2411120,MATCH
 5,Perciformes,Carangidae,Alectis,SPECIES,Alectis ciliaris,2390537,MATCH
@@ -183,6 +359,7 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 5,Tetraodontiformes,Monacanthidae,Aluterus,SPECIES,Aluterus schoepfii,2406748,MATCH
 4,Beloniformes,Exocoetidae,Hirundichthys,SPECIES,Hirundichthys volador,9591512,NO MATCH
 4,Gadiformes,Lotidae,Lota,SPECIES,Lota lota,2415460,MATCH
+4,Neogastropoda,Marginellidae,Prunum,SPECIES,Prunum roscidum,5193370,NO MATCH
 4,Myctophiformes,Myctophidae,Notoscopelus,SPECIES,Notoscopelus resplendens,2406106,MATCH
 4,Perciformes,Ariommatidae,Ariomma,SPECIES,Ariomma bondi,2399410,NO MATCH
 4,Perciformes,Chaetodontidae,Chaetodon,SPECIES,Chaetodon capistratus,2385548,MATCH
@@ -203,21 +380,3 @@ count,order,family,genus,level,genus_species,ID,in_refdb
 4,Stomiiformes,Stomiidae,Borostomias,SPECIES,Borostomias antarcticus,2347213,MATCH
 4,Zeiformes,Parazenidae,Cyttopsis,SPECIES,Cyttopsis rosea,2415284,MATCH
 4,Zeiformes,Zeidae,Zenopsis,SPECIES,Zenopsis conchifer,2415247,MATCH
-3,Aulopiformes,Scopelarchidae,Scopelarchus,SPECIES,Scopelarchus analis,2401446,NO MATCH
-3,Beloniformes,Belonidae,Ablennes,SPECIES,Ablennes hians,2369165,MATCH
-3,Beloniformes,Exocoetidae,Parexocoetus,SPECIES,Parexocoetus hillianus,2368613,NO MATCH
-3,Cypriniformes,Cyprinidae,Pimephales,SPECIES,Pimephales notatus,2367736,MATCH
-3,Notacanthiformes,Notacanthidae,Polyacanthonotus,SPECIES,Polyacanthonotus rissoanus,2405510,MATCH
-3,Perciformes,Carangidae,Carangoides,SPECIES,Caranx bartholomaei,2390959,NO MATCH
-3,Perciformes,Carangidae,Decapterus,SPECIES,Decapterus macarellus,2391064,MATCH
-3,Perciformes,Percidae,Sander,SPECIES,Sander vitreus,2382172,MATCH
-3,Perciformes,Pomacanthidae,Holacanthus,SPECIES,Holacanthus bermudensis,5211460,MATCH
-3,Perciformes,Pomacentridae,Abudefduf,SPECIES,Abudefduf taurus,2398664,MATCH
-3,Perciformes,Priacanthidae,Cookeolus,SPECIES,Cookeolus japonicus,2375059,MATCH
-3,Perciformes,Serranidae,Mycteroperca,SPECIES,Mycteroperca microlepis,2388994,MATCH
-3,Perciformes,Stichaeidae,Leptoclinus,SPECIES,Leptoclinus maculatus,2394832,MATCH
-3,Perciformes,Zoarcidae,Lycodes,SPECIES,Lycodes reticulatus,8406566,MATCH
-3,Petromyzontiformes,Petromyzontidae,Lampetra,SPECIES,Lampetra aepyptera,5216490,MATCH
-3,Scorpaeniformes,Cottidae,Icelus,SPECIES,Icelus bicornis,5201203,MATCH
-3,Stomiiformes,Stomiidae,Malacosteus,SPECIES,Malacosteus niger,2347378,MATCH
-3,Syngnathiformes,Fistulariidae,Fistularia,SPECIES,Fistularia petimba,5200931,MATCH
