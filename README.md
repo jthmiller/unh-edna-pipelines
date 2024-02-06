@@ -2,15 +2,15 @@
 Code for eDNA metabarcoding on RON and Premise @UNH
 
 
-### Secure Shell (SSH) into the RON cluster
+#### Secure Shell (SSH) into the RON cluster
 ```
 ssh -X jtmiller@ron.sr.unh.edu
 ```
-### Make a directory for the fastqs downloaded from HCGS.
+#### Make a directory for the fastqs downloaded from HCGS.
 ```
 mkdir raw-data
 ```
-### Change directories into 'raw-data' to download the data. Use the 'wget' commands sent by email from HCGS
+#### Change directories into 'raw-data' to download the data. Use the 'wget' commands sent by email from HCGS
 ```
 wget -r -np -R "index.html*" --http-user=user --http-password=AvFBDnVBAf https://cobb.sr.unh.edu/managed/231201_A01346_0124_BHHFKWDRX3_16Mer120123-AW-MBNH-MFNX112023/reads
 
@@ -18,7 +18,7 @@ wget -r -np -R "index.html*" --http-user=user --http-password=aQuMnVFTTr https:/
 wget -r -np -R "index.html*" --http-user=user --http-password=GTjAMJrWAM https://cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_20Mer121923-AW-HIDAR-16SNX121123/reads
 wget -r -np -R "index.html*" --http-user=user --http-password=CMVsWcxFYS https://cobb.sr.unh.edu/managed/231201_A01346_0124_BHHFKWDRX3_16Mer120123-AW-BCWEHIDARFC-CO1NX080323/reads
 ```
-### This will put the data in 'raw-data/cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_16Mer121923-AW-HIDAR-18SNX120623/reads'
+#### This will put the data in 'raw-data/cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_16Mer121923-AW-HIDAR-18SNX120623/reads'
 
 
 ## make out dirs
@@ -31,16 +31,16 @@ find "$( realpath raw-data/cobb.sr.unh.edu/managed/231201_A01346_0124_BHHFKWDRX3
 cd data/reads
 ```
 
-## Count the number of reads for each file for QAQC
+#### Count the number of reads for each file for QAQC
 ```
  for fq in *R1_001.fastq.gz ; do echo "$(basename $fq | sed 's/_L002_R1_001.fastq.gz//' ) $(zgrep '^@' "$fq" | wc -l)" ; done | sort -k2 -h | awk -v OFS='\t' '{ print $1,$2 }' > ../qiime_out/readcounts
  cd ../
 ```
 
-## qiime2 conda
+#### qiime2 conda
 ```conda activate qiime2-2022.8```
 
-### import fastqs to qiime
+#### import fastqs to qiime
 ```
 qiime tools import \
    --type "SampleData[PairedEndSequencesWithQuality]"  \
@@ -49,7 +49,7 @@ qiime tools import \
    --output-path qiime_out/MBNH-MFNX112023_demux 
 ```
 
-### Run cutadapt to trim off Mifish primer sequences
+#### Run cutadapt to trim off Mifish primer sequences
 ```
     fw='^GTCGGTAAAACTCGTGCCAGC'	
     rv='^CATAGTGGGGTATCTAATCCCAGTTTG'
@@ -65,14 +65,14 @@ qiime cutadapt trim-paired \
     --verbose > qiime_out/$(date +%m%d%Y)_cutadapt.out 2>&1
 ```
 
-### Statistics summarizing demux
+#### Statistics summarizing demux
 ```
 qiime demux summarize \
    --i-data qiime_out/MBNH-MFNX112023_demux_cutadapt.qza \
    --o-visualization qiime_out/MBNH-MFNX112023_demux_cutadapt.qzv "
 ```
 
-### Parameters and reference databases used in QIIME
+#### Parameters and reference databases used in QIIME
 ```
     fw='^GTCGGTAAAACTCGTGCCAGC'	
     rv='^CATAGTGGGGTATCTAATCCCAGTTTG'
@@ -99,7 +99,7 @@ qiime demux summarize \
     sklearn=${sklearn:-/home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/mitofish-classifier.qza}
 ```
 
-### Denoising
+#### Denoising
 ```
 qiime dada2 denoise-paired \
     --i-demultiplexed-seqs qiime_out/MBNH-MFNX112023_demux_cutadapt.qza  \
@@ -132,7 +132,7 @@ qiime tools export \
 cp qiime_out/MBNH-MFNX112023_dns_export/metadata.tsv qiime_out/MBNH-MFNX112023_metadata.tsv 
 ```
 
-### Autogenerate a text file metadata
+#### Autogenerate a text file metadata
 ```
 echo -e "file\tprePolyG_filter\tpostPolyG_filter\t$(head -n1 qiime_out/MBNH-MFNX112023_metadata.tsv | sed 's/ /_/g' )" > qiime_out/MBNH-MFNX112023_read_report.txt \
 while read line ; do 
