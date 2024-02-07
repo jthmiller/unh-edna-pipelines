@@ -17,19 +17,13 @@ wget -r -np -R "index.html*" --http-user=user --http-password=AvFBDnVBAf https:/
 cd ../
 ```
 
-#### make softlinks to original fastqs
+#### Make a softlink to original fastqs in the 'data/reads' folder
 ```
 find "$( realpath raw-data/cobb.sr.unh.edu/managed/231201_A01346_0124_BHHFKWDRX3_16Mer120123-AW-MBNH-MFNX112023/reads)" -type f -name "*fastq.gz" -exec ln -sf {} data/reads \;
 cd data/reads
 ```
 
-#### Count the number of reads for each file for QAQC
-```
- for fq in *R1_001.fastq.gz ; do echo "$(basename $fq | sed 's/_L002_R1_001.fastq.gz//' ) $(zgrep '^@' "$fq" | wc -l)" ; done | sort -k2 -h | awk -v OFS='\t' '{ print $1,$2 }' > ../qiime_out/readcounts
- cd ../
-```
-
-#### qiime2 conda
+#### To run qiime, activate the qiime2 conda environment
 ```conda activate qiime2-2022.8```
 
 #### import fastqs to qiime
