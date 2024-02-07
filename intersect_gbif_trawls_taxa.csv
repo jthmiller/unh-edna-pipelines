@@ -1,0 +1,354 @@
+Feature.ID,Taxon,Confidence,Consensus,Method,in_gbif,miss_gbif,miss_refdb
+NA,01dc204cc6be9d24ce1deb1e2e27a6d1,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999049039224643,1,sklearn,NA,NA,NA
+NA.1,0280cc504f9b4cce835a19843b59fcca,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999928679223046,1,sklearn,NA,NA,NA
+NA.2,0324a706290f6c86238c0691c510025e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999989560686036,1,sklearn,NA,NA,NA
+033dd35a41f3d01d9c648016ce1bf249,033dd35a41f3d01d9c648016ce1bf249,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.728191824613209,1,sklearn,FALSE,FALSE,TRUE
+049c8ecf12f8245fe1fc087f5706b2a8,049c8ecf12f8245fe1fc087f5706b2a8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.780730335999468,1,sklearn,FALSE,FALSE,TRUE
+0515d1f57dbb0e4a48df5a2b68cdbf9d,0515d1f57dbb0e4a48df5a2b68cdbf9d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Merlucciidae; g__Merluccius; s__Merluccius merluccius,0.754496914580366,1,sklearn,FALSE,FALSE,TRUE
+NA.3,051c3f96639a4178c0403cc293877e2a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999929620079519,1,sklearn,NA,NA,NA
+NA.4,0728381ef53666c6e95462ee50e39877,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992900762609,1,sklearn,NA,NA,NA
+NA.5,0786c53a5c87e8bf7f9e73eb9c660635,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493262751,1,sklearn,NA,NA,NA
+07ac61fdde92fa454a472a9872ee7a37,07ac61fdde92fa454a472a9872ee7a37,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Leuciscidae; g__Notropis; s__Notropis bifrenatus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.6,07c59d99f8a0d85cf643f05530b4b15f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Sebastidae; g__Sebastes,0.999702225277979,1,sklearn,NA,NA,NA
+088aa2b41d0eb44942f4c01dac7c23cc,088aa2b41d0eb44942f4c01dac7c23cc,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999818591656508,1,sklearn,TRUE,FALSE,TRUE
+08fbac2c646d6444d9b8462d86c8148f,08fbac2c646d6444d9b8462d86c8148f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.999703043186275,1,sklearn,TRUE,FALSE,TRUE
+NA.7,091fe6ab71741398004bedce2b3b1c88,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992283478248,1,sklearn,NA,NA,NA
+093cbb97253cb6ed3ff426ac2bcaa5cb,093cbb97253cb6ed3ff426ac2bcaa5cb,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Gadidae; g__Gadus; s__Gadus morhua,NA,0.862,VSEARCH,TRUE,FALSE,TRUE
+NA.8,0993b0647f45c7f1a4c08e1e185fe273,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999986950342178,1,sklearn,NA,NA,NA
+0ad07622c91c9e03b7b6fe17cd8af6e7,0ad07622c91c9e03b7b6fe17cd8af6e7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999996335819907,1,sklearn,TRUE,FALSE,TRUE
+0ae696476b906c4fc238a851e28b7034,0ae696476b906c4fc238a851e28b7034,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Pholidae; g__Pholis; s__Pholis crassispina,0.756314205295209,1,sklearn,FALSE,FALSE,TRUE
+NA.9,0b158abfc8e1ae6218812b549701627c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999956825082613,1,sklearn,NA,NA,NA
+NA.10,0b2a1603f465fdb2554a39b4c7eeb511,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Pholidae; g__Pholis,0.999022980165715,1,sklearn,NA,NA,NA
+0b5354727b61e521269c4c4a554fcca2,0b5354727b61e521269c4c4a554fcca2,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999988769791292,1,sklearn,TRUE,FALSE,TRUE
+NA.11,0c1c265c3875168b4c3d99c16ad29293,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993024123225,1,sklearn,NA,NA,NA
+0ee2bec099a05d8d4609d2e9cfb61324,0ee2bec099a05d8d4609d2e9cfb61324,d__Eukaryota; p__Chordata; c__Actinopteri; o__Pleuronectiformes; f__Pleuronectidae; g__Pseudopleuronectes; s__Pseudopleuronectes americanus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+102728a2f4054d96242082d58b95dc7e,102728a2f4054d96242082d58b95dc7e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cyprinodontiformes; f__Fundulidae; g__Fundulus; s__Fundulus heteroclitus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.12,11a30c2cf361318532b360f0cfdaebfe,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999994835549695,1,sklearn,NA,NA,NA
+137120ba62e99c48962c222527b86b2e,137120ba62e99c48962c222527b86b2e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Pholidae; g__Pholis; s__Pholis crassispina,0.713650000346393,1,sklearn,FALSE,FALSE,TRUE
+NA.13,1371cdbaeb9b9b0881d32ff840bd420a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999893830362183,1,sklearn,NA,NA,NA
+NA.14,155f91c7b893d706c1d6a1506fec1256,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993506393123,1,sklearn,NA,NA,NA
+NA.15,15bb8401cf7560e9d510988aae90929f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493383983,1,sklearn,NA,NA,NA
+NA.16,15ecd24a90245d8e3be7533e8430ae1a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Thunnus,NA,1,VSEARCH,NA,NA,NA
+160254cc59526f768cdee4800e7fdea7,160254cc59526f768cdee4800e7fdea7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Lophiiformes; f__Lophiidae; g__Lophius; s__Lophius americanus,0.99944822536352,1,sklearn,TRUE,FALSE,TRUE
+NA.17,16ef05d39798f03944dd7247afc133c3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999999578416166,1,sklearn,NA,NA,NA
+NA.18,1868d30e5e7ff9f92ed8a47cc557d3bf,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.993016897755209,1,sklearn,NA,NA,NA
+NA.19,18c5d0d565c0b0210ad039b4d75e9cce,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999923121720955,1,sklearn,NA,NA,NA
+NA.20,18d4bebdd4deae61c207b628c6cd5f56,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999945837011528,1,sklearn,NA,NA,NA
+1abbad1510e0106375ed6a583f7541af,1abbad1510e0106375ed6a583f7541af,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999981681533211,1,sklearn,TRUE,FALSE,TRUE
+NA.21,1c6e65795c7272af3fbb9a4a1c41f51a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus,0.939408243044387,1,sklearn,NA,NA,NA
+NA.22,1c72eba8b0cc96cf9c399cc6cade5b6c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.99999920076395,1,sklearn,NA,NA,NA
+NA.23,1e0aa9e2e665d5ab7e7a58c3fba2afe0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992230557115,1,sklearn,NA,NA,NA
+1e4a05c71502a4f48610bd441fcab27f,1e4a05c71502a4f48610bd441fcab27f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.24,1e646e70fecffb34dc28c644c3e111c9,d__Eukaryota; p__Chordata; c__Actinopteri; o__Uranoscopiformes; f__Ammodytidae; g__Ammodytes,NA,1,VSEARCH,NA,NA,NA
+NA.25,219c38c4d775f8ec089fc143e4a43fb5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999968047388538,1,sklearn,NA,NA,NA
+NA.26,22d90662a61898be698f1d8a8f063d6b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493383966,1,sklearn,NA,NA,NA
+23a17eaaef8f8ee2e45d9cbedf9bcf8a,23a17eaaef8f8ee2e45d9cbedf9bcf8a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999983225573762,1,sklearn,TRUE,FALSE,TRUE
+NA.27,24fc441ec628ffa5d28342788979b4b6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999988982900801,1,sklearn,NA,NA,NA
+2517b9d700718e9c99e4ea97062e5c76,2517b9d700718e9c99e4ea97062e5c76,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999993814291518,1,sklearn,TRUE,FALSE,TRUE
+NA.28,2523d496d711bc89d21f3f3c53db33bf,d__Eukaryota; p__Chordata; c__Actinopteri; o__Pleuronectiformes; f__Pleuronectidae; g__Hippoglossoides,0.726023630865107,1,sklearn,NA,NA,NA
+NA.29,2619353f8ade104d3e81a7c2f3256bce,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999990316456244,1,sklearn,NA,NA,NA
+NA.30,26676a36460bb537934058b5c30b5b84,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993624766973,1,sklearn,NA,NA,NA
+NA.31,26d63f97182203fb3bb83754dd617068,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999985582028122,1,sklearn,NA,NA,NA
+29715cbfac4933ea6978f13159a0fd5f,29715cbfac4933ea6978f13159a0fd5f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.990085017824361,1,sklearn,TRUE,FALSE,TRUE
+NA.32,297d0fb97f0d8b00a20e8438ced54f61,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Cyprinidae; g__Carassius,NA,0.7,VSEARCH,NA,NA,NA
+2a710e68a60b375a53a1720d3fe6a9b7,2a710e68a60b375a53a1720d3fe6a9b7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Pleuronectiformes; f__Pleuronectidae; g__Platichthys; s__Platichthys stellatus,NA,0.8,VSEARCH,FALSE,FALSE,TRUE
+NA.33,2c9311fbd1835be77ad86f5f41c5809a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993437377509,1,sklearn,NA,NA,NA
+2cb287902b28eaa0ab26163340492629,2cb287902b28eaa0ab26163340492629,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998164676562,1,sklearn,TRUE,FALSE,TRUE
+2d972ca28f283e5ffa9a6c729895d42e,2d972ca28f283e5ffa9a6c729895d42e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Merlucciidae; g__Merluccius; s__Merluccius merluccius,0.74765737262284,1,sklearn,FALSE,FALSE,TRUE
+NA.34,2da481ab6e6ad7011beba265cd5de60e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.986346637767973,1,sklearn,NA,NA,NA
+2dbfb0f9638bd1278fb4ae8dcd9faed5,2dbfb0f9638bd1278fb4ae8dcd9faed5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Merlucciidae; g__Merluccius; s__Merluccius merluccius,0.772702149857074,1,sklearn,FALSE,FALSE,TRUE
+NA.35,2df02d4373b31365cd5fb2ac65a71227,d__Eukaryota; p__Chordata; c__Actinopteri; o__Pleuronectiformes; f__Pleuronectidae; g__Hippoglossoides,NA,0.667,VSEARCH,NA,NA,NA
+NA.36,2e312fb9a5c4031f64b0694ae03ca6b5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992424828809,1,sklearn,NA,NA,NA
+NA.37,2efc1571a55b547a2f49503e1978e8bb,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999951147208911,1,sklearn,NA,NA,NA
+2f690e0bf019e9e641c6a12ae41ea9dc,2f690e0bf019e9e641c6a12ae41ea9dc,d__Eukaryota; p__Chordata; c__Actinopteri; o__Labriformes; f__Labridae; g__Tautogolabrus; s__Tautogolabrus adspersus,0.999942136676319,1,sklearn,TRUE,FALSE,TRUE
+NA.38,2f909b877161fbaa57db80116d4cf0e2,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992230506951,1,sklearn,NA,NA,NA
+30aea7d8c5ea248b595c191883cae19b,30aea7d8c5ea248b595c191883cae19b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Euteleosteomorpha; f__Moronidae; g__Morone; s__Morone americana,NA,1,VSEARCH,TRUE,FALSE,TRUE
+319bbfbe1cb97ca9be2d9f76a95f161e,319bbfbe1cb97ca9be2d9f76a95f161e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.938878765827299,1,sklearn,FALSE,FALSE,TRUE
+31b74ef62b4422e3579db4d236d3fb1d,31b74ef62b4422e3579db4d236d3fb1d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Stichaeidae; g__Eumesogrammus; s__Eumesogrammus praecisus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+333f19cd25ea4f08e931eafddb2a37f0,333f19cd25ea4f08e931eafddb2a37f0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Merlucciidae; g__Merluccius; s__Merluccius merluccius,0.737244079121122,1,sklearn,FALSE,FALSE,TRUE
+339af72793a4dc2c1641492dba0ed5f7,339af72793a4dc2c1641492dba0ed5f7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Sebastidae; g__Sebastes; s__Sebastes mentella,NA,1,VSEARCH,FALSE,FALSE,TRUE
+33e07885dff6604e806449c441f6288f,33e07885dff6604e806449c441f6288f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Labriformes; f__Labridae; g__Tautogolabrus; s__Tautogolabrus adspersus,0.999008588368208,1,sklearn,TRUE,FALSE,TRUE
+NA.39,34c2beb32f108b8ccbaff3315c04ec55,d__Eukaryota; p__Chordata; c__Actinopteri; o__Pleuronectiformes; f__Pleuronectidae,0.999545406715461,1,sklearn,NA,NA,NA
+NA.40,34e2411fe128302ae93d6bd9472e3b8f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999952288582925,1,sklearn,NA,NA,NA
+35100a35415f5f753b4ebb35114dcfb2,35100a35415f5f753b4ebb35114dcfb2,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998533847768,1,sklearn,TRUE,FALSE,TRUE
+NA.41,369a0f23091ccfccbb73e5cea48323f3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493373399,1,sklearn,NA,NA,NA
+NA.42,38563f6a13981385c4d6aa3abe4fcc00,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993469975948,1,sklearn,NA,NA,NA
+394646bb91f1276375480dfe011a2d8b,394646bb91f1276375480dfe011a2d8b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999997979680538,1,sklearn,TRUE,FALSE,TRUE
+NA.43,3a3988ea124d3206a96d184a2d133fd2,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999969392957197,1,sklearn,NA,NA,NA
+3a4e69106ab698a13740e8b74aca6544,3a4e69106ab698a13740e8b74aca6544,d__Eukaryota; p__Chordata; c__Actinopteri; o__Centrarchiformes; f__Centrarchidae; g__Lepomis; s__Lepomis macrochirus,NA,0.75,VSEARCH,TRUE,FALSE,TRUE
+NA.44,3a8042f98269db67fa31ddf85c3bb706,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cyprinodontiformes; f__Fundulidae; g__Fundulus,NA,1,VSEARCH,NA,NA,NA
+3b17a3ad0d4ab16978e2add435feaecb,3b17a3ad0d4ab16978e2add435feaecb,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Percidae; g__Perca; s__Perca flavescens,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.45,3c69e595b0ee8fea56dce1f1103bb725,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999987474396089,1,sklearn,NA,NA,NA
+3c86ab3fdb11b602a40d981310be4c56,3c86ab3fdb11b602a40d981310be4c56,d__Eukaryota; p__Chordata; c__Actinopteri; o__Centrarchiformes; f__Centrarchidae; g__Pomoxis; s__Pomoxis nigromaculatus,NA,0.75,VSEARCH,TRUE,FALSE,TRUE
+NA.46,3f21d8ffd8b4c5b997b73f0ea2052e82,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea,0.76106995609661,1,sklearn,NA,NA,NA
+NA.47,3f798637cc4aa8553ac6644af644d360,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999984556844651,1,sklearn,NA,NA,NA
+4086bd3bb0bb6ca83444a50cd75bfb6a,4086bd3bb0bb6ca83444a50cd75bfb6a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.809248505103929,1,sklearn,FALSE,FALSE,TRUE
+NA.48,41a61724c7f2293d607d058a3c941bba,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993328228476,1,sklearn,NA,NA,NA
+NA.49,422d3db4726e313c7448c71137e3a31e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Sebastidae; g__Sebastes,0.999776855542508,1,sklearn,NA,NA,NA
+423a96ee626d7699e34ec33ca614121f,423a96ee626d7699e34ec33ca614121f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.809249517194127,1,sklearn,FALSE,FALSE,TRUE
+42eb32644efa4649852af13e6b96e8d0,42eb32644efa4649852af13e6b96e8d0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.99999853644835,1,sklearn,TRUE,FALSE,TRUE
+NA.50,43b5f532dbaa54bcd2f309f3a6d7441e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999999810949495,1,sklearn,NA,NA,NA
+4429f89e6ee8ea2ab0e782e6a3f2d01d,4429f89e6ee8ea2ab0e782e6a3f2d01d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999999020680942,1,sklearn,TRUE,FALSE,TRUE
+NA.51,45281d930f52bf4cb773f7e9f4dffb04,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99999628467072,1,sklearn,NA,NA,NA
+NA.52,48b437996d87dc44a987a59a8a968b7b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99997713921226,1,sklearn,NA,NA,NA
+49d111e4190727bc0c370f9600218eb6,49d111e4190727bc0c370f9600218eb6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999993037932,1,sklearn,TRUE,FALSE,TRUE
+NA.53,4a097b3392eb2e6f28b9658ae675fc13,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993234847896,1,sklearn,NA,NA,NA
+NA.54,4a2e83f64eb03db8f22dd8515c54cee5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999997665787982,1,sklearn,NA,NA,NA
+4b2f0584af1ea96c91a051f332256985,4b2f0584af1ea96c91a051f332256985,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.893939811093075,1,sklearn,FALSE,FALSE,TRUE
+4c515df5a903ff5ea96dfd70cf4e3fad,4c515df5a903ff5ea96dfd70cf4e3fad,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.981435246807643,1,sklearn,TRUE,FALSE,TRUE
+4ceaf90569fb1cb0f7d82db9da52a2b8,4ceaf90569fb1cb0f7d82db9da52a2b8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998139264858,1,sklearn,TRUE,FALSE,TRUE
+NA.55,4d06a0e3ba1477bab5af842c2efb9ac6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993809422275,1,sklearn,NA,NA,NA
+NA.56,4d2e625e25a1e23698101beb7521a167,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.998698996555529,1,sklearn,NA,NA,NA
+4e244819eb524dadecd877c28382759b,4e244819eb524dadecd877c28382759b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999994915705394,1,sklearn,TRUE,FALSE,TRUE
+4f230e9f555d28e66a5322337abad9e4,4f230e9f555d28e66a5322337abad9e4,d__Eukaryota; p__Chordata; c__Actinopteri; o__Euteleosteomorpha; f__Moronidae; g__Morone; s__Morone americana,NA,1,VSEARCH,TRUE,FALSE,TRUE
+5064a2b449cac79e9e83b383400d478f,5064a2b449cac79e9e83b383400d478f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999994670539797,1,sklearn,TRUE,FALSE,TRUE
+510fc640c809ed5a09b902588703a6ee,510fc640c809ed5a09b902588703a6ee,d__Eukaryota; p__Chordata; c__Actinopteri; o__Anguilliformes; f__Anguillidae; g__Anguilla; s__Anguilla rostrata,NA,1,VSEARCH,TRUE,FALSE,TRUE
+515910a149d4a71b9bf768c7c02ef315,515910a149d4a71b9bf768c7c02ef315,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cyprinodontiformes; f__Fundulidae; g__Fundulus; s__Fundulus heteroclitus,0.998662274262353,1,sklearn,TRUE,FALSE,TRUE
+NA.57,51e333828eb9986b6c76267084e906e6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.993071331876674,1,sklearn,NA,NA,NA
+NA.58,52365a0a179c736e66eccf1d02c4bd4e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993501441706,1,sklearn,NA,NA,NA
+NA.59,5245b0961cceec425ece55590418155e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493375663,1,sklearn,NA,NA,NA
+NA.60,52b60abd5b4832c3e69f4e75662701d6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99353219501853,1,sklearn,NA,NA,NA
+545fbdada0ac175a1ead9d95237e716a,545fbdada0ac175a1ead9d95237e716a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus; s__Myoxocephalus octodecemspinosus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.61,54c65d0760ae5255d382550282f02e9b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993501440462,1,sklearn,NA,NA,NA
+NA.62,54d7fb12e79c20384ab74956a100725c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999787457309391,1,sklearn,NA,NA,NA
+5624ffad120ba0b7c2b16241265fc2b5,5624ffad120ba0b7c2b16241265fc2b5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999995926859352,1,sklearn,TRUE,FALSE,TRUE
+NA.63,574c008488ea265cca5809e543817776,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99996799653322,1,sklearn,NA,NA,NA
+NA.64,57845f62df4908935c3d104a58d901e1,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493308424,1,sklearn,NA,NA,NA
+NA.65,58427813d23ba63996cf90568806bb1b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999960629156104,1,sklearn,NA,NA,NA
+NA.66,58b7f28195605ee260a31b47c1004854,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993480959828,1,sklearn,NA,NA,NA
+5a7a49548c6a0924fb163742d4dbc8c5,5a7a49548c6a0924fb163742d4dbc8c5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999986227942095,1,sklearn,TRUE,FALSE,TRUE
+NA.67,5af94490288caf7e253025c76f48fbd3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999994448476396,1,sklearn,NA,NA,NA
+NA.68,5b5925d80d5f6439973671eda10338ad,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999999823763081,1,sklearn,NA,NA,NA
+5c4159aae45c3a1eb5f4ff213a0ae772,5c4159aae45c3a1eb5f4ff213a0ae772,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999997876029819,1,sklearn,TRUE,FALSE,TRUE
+NA.69,5c8269591b7113fec42a9c9310893cea,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999978730665843,1,sklearn,NA,NA,NA
+5cc9c634c441079aca6cf9bdfe61b13f,5cc9c634c441079aca6cf9bdfe61b13f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius; s__Pungitius pungitius,NA,0.667,VSEARCH,TRUE,FALSE,TRUE
+NA.70,5d0be5ee9a6609d26f4f690b7bccff97,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.998651073285773,1,sklearn,NA,NA,NA
+5d47f12a165393b21ce48b71b583001d,5d47f12a165393b21ce48b71b583001d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.992046899268275,1,sklearn,TRUE,FALSE,TRUE
+NA.71,5d5f43947512c40f6242702b5380e23d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992885167949,1,sklearn,NA,NA,NA
+5e82e138ed1f4551e27868475afc3961,5e82e138ed1f4551e27868475afc3961,d__Eukaryota; p__Chordata; c__Actinopteri; o__Centrarchiformes; f__Centrarchidae; g__Lepomis; s__Lepomis gibbosus,0.999352847104379,1,sklearn,TRUE,FALSE,TRUE
+5ed8fafad7e979eff5e2c37d4a496d85,5ed8fafad7e979eff5e2c37d4a496d85,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998363907866,1,sklearn,TRUE,FALSE,TRUE
+5f1cc2136e2f05c4686bc2f8d9c5b3d4,5f1cc2136e2f05c4686bc2f8d9c5b3d4,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999980987369,1,sklearn,TRUE,FALSE,TRUE
+5f31e063a4b7ebeea6ff0a0a0201f20f,5f31e063a4b7ebeea6ff0a0a0201f20f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus; s__Myoxocephalus octodecemspinosus,0.797405452848958,1,sklearn,TRUE,FALSE,TRUE
+NA.72,600788b65d116d1a1a0911382aaa3eb0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Pholidae; g__Pholis,0.999398175346783,1,sklearn,NA,NA,NA
+NA.73,603bc4fc45c94c49a6b0aa6ef98f8a37,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999978582306386,1,sklearn,NA,NA,NA
+610a1ba472361511d083ec9d067c51de,610a1ba472361511d083ec9d067c51de,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.99999315953851,1,sklearn,TRUE,FALSE,TRUE
+6189a2dfebd8950b02983f2b976e3091,6189a2dfebd8950b02983f2b976e3091,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999992312823,1,sklearn,TRUE,FALSE,TRUE
+NA.74,61ac8df4ba98b78d6249ab7121ccd1fc,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999985367037906,1,sklearn,NA,NA,NA
+NA.75,62b4c06302944b406ac6a7944c4d7859,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99995228821604,1,sklearn,NA,NA,NA
+NA.76,649cd7e62b89eea91a090a7368cf0e1a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993715465114,1,sklearn,NA,NA,NA
+NA.77,64aecfcb40f20a07d4698f633e1b4f8c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493381396,1,sklearn,NA,NA,NA
+NA.78,64cbcfffff36faf31501875ea18371d6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99999302405681,1,sklearn,NA,NA,NA
+65194a99d6c6ad250aeb301d55c86bd2,65194a99d6c6ad250aeb301d55c86bd2,d__Eukaryota; p__Chordata; c__Actinopteri; o__Labriformes; f__Labridae; g__Tautogolabrus; s__Tautogolabrus adspersus,0.999973313919822,1,sklearn,TRUE,FALSE,TRUE
+NA.79,665e7df114cc522d87a315a886668bb8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493378032,1,sklearn,NA,NA,NA
+NA.80,679aab87cfe09037f58806a147a527ba,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993374962785,1,sklearn,NA,NA,NA
+NA.81,6916d8707faa9f2af1ba2601903a3120,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Stichaeidae,0.999879028314696,1,sklearn,NA,NA,NA
+6adc87560db0b5527ca198c95f69f198,6adc87560db0b5527ca198c95f69f198,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.992157128759443,1,sklearn,TRUE,FALSE,TRUE
+NA.82,6b37015d1596dbd5eb4e24eaf443d28e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999995770470429,1,sklearn,NA,NA,NA
+NA.83,6b3be0ff88f14603dc48405156015616,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999928679227159,1,sklearn,NA,NA,NA
+NA.84,6c9ca192ea31dffc1224c6cf1298e2a3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493383901,1,sklearn,NA,NA,NA
+6cd7bb942c075eb191997a322e8ecfc8,6cd7bb942c075eb191997a322e8ecfc8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998857754874,1,sklearn,TRUE,FALSE,TRUE
+NA.85,6cdc7688bf4a3bd2e3e0fdb33797a0da,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993480976685,1,sklearn,NA,NA,NA
+NA.86,6d07d4b316e898330c4cc1e982c2e8b3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999978523366484,1,sklearn,NA,NA,NA
+6d3a85910e39bcc9fbd748acef1a5317,6d3a85910e39bcc9fbd748acef1a5317,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999975180247541,1,sklearn,TRUE,FALSE,TRUE
+NA.87,6dab2ef2e3955dc7e65ca441d3571b82,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999994846617616,1,sklearn,NA,NA,NA
+NA.88,6dd5f87f2fd7400a74eab7e8c55edfb7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99998428112322,1,sklearn,NA,NA,NA
+NA.89,6e318e449c21e475941b7ca82e63b65b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992880199739,1,sklearn,NA,NA,NA
+6e516347650bc50a32dd1738f4168bd0,6e516347650bc50a32dd1738f4168bd0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999998200664,1,sklearn,TRUE,FALSE,TRUE
+6ef40f271eb6251d04e861e6a7c719b8,6ef40f271eb6251d04e861e6a7c719b8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.99999785937246,1,sklearn,TRUE,FALSE,TRUE
+6f0a1cf43072d9695cfb946772c4ee75,6f0a1cf43072d9695cfb946772c4ee75,d__Eukaryota; p__Chordata; c__Actinopteri; o__Siluriformes; f__Ictaluridae; g__Ameiurus; s__Ameiurus natalis,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.90,6f3825e118f054b6635412843359f759,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999964676785791,1,sklearn,NA,NA,NA
+NA.91,6ff1821b6c33cbbf2e7b2e82302ad7ef,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99999293857995,1,sklearn,NA,NA,NA
+NA.92,730bb5d11e9524e488c2a13e8cbd3b51,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493379979,1,sklearn,NA,NA,NA
+73499369e7c5c92f89085ca15fa6583b,73499369e7c5c92f89085ca15fa6583b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus; s__Myoxocephalus octodecemspinosus,0.988801873940455,1,sklearn,TRUE,FALSE,TRUE
+NA.93,73de29fb3a62969ec4bd6ff570b0fae9,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999976378909774,1,sklearn,NA,NA,NA
+NA.94,73f4c80cb0472c0cd5fe438696babc6e,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,NA,1,VSEARCH,NA,NA,NA
+NA.95,7441b9a36bfcc576f27d1fd1f2981b8c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.998699268705823,1,sklearn,NA,NA,NA
+NA.96,74b7090b78496579ca3551d622347e55,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999977609901961,1,sklearn,NA,NA,NA
+NA.97,75eb8007305594f1210f80dcef156a0d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493376554,1,sklearn,NA,NA,NA
+NA.98,76b78f52caffaa34e7d14f024776074c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999991831372936,1,sklearn,NA,NA,NA
+76e006c6c343db86deb936663daa40d7,76e006c6c343db86deb936663daa40d7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Agonidae; g__Hemitripterus; s__Hemitripterus americanus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+770d1630a650d50566782aa17905c64c,770d1630a650d50566782aa17905c64c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.800892414232531,1,sklearn,FALSE,FALSE,TRUE
+7778a3107335bc98e551c6cbb9928b27,7778a3107335bc98e551c6cbb9928b27,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999981815969579,1,sklearn,TRUE,FALSE,TRUE
+78814536537a396d78cf51606b66972f,78814536537a396d78cf51606b66972f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999985978540186,1,sklearn,TRUE,FALSE,TRUE
+78c923470cd1801a630c943c5464812f,78c923470cd1801a630c943c5464812f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Euteleosteomorpha; f__Moronidae; g__Morone; s__Morone saxatilis,0.999997037296749,1,sklearn,TRUE,FALSE,TRUE
+79c5bf8e719046b98ea4b9639d500374,79c5bf8e719046b98ea4b9639d500374,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.99,7a4be225e02c5c91201920c1f8e1a91a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493379705,1,sklearn,NA,NA,NA
+NA.100,7abea25d33d05dbfe46ad99c5450bfc7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493383972,1,sklearn,NA,NA,NA
+NA.101,7be80103f1f93b3b0dc13f8e6d59f18d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999990316602988,1,sklearn,NA,NA,NA
+NA.102,7cad1b19663fbabe0cbe839ef868ca9f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999994112056761,1,sklearn,NA,NA,NA
+7e38b1d8f3133de7c227a7f4548ebbdf,7e38b1d8f3133de7c227a7f4548ebbdf,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Leuciscidae; g__Rhinichthys; s__Rhinichthys cataractae,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.103,7eb20d1cf19709cf40d9d0cd352f8cbc,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993506378336,1,sklearn,NA,NA,NA
+NA.104,7ee2a9441c3231a336018a80d71dace6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992325559402,1,sklearn,NA,NA,NA
+7faac51de63cf967c8933393eb91cbd3,7faac51de63cf967c8933393eb91cbd3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998289296868,1,sklearn,TRUE,FALSE,TRUE
+NA.105,7fea1be99907d9f95a5b41fbaf7c819b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999978730709277,1,sklearn,NA,NA,NA
+81fe73b8352ab85f8ed958a99b74fbfb,81fe73b8352ab85f8ed958a99b74fbfb,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998269758796,1,sklearn,TRUE,FALSE,TRUE
+NA.106,821c8ede67caad240eb1aee723117601,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992593750919,1,sklearn,NA,NA,NA
+NA.107,82442799762feb1f302c76d4983cd9a6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999972041646898,1,sklearn,NA,NA,NA
+82b38e1819841c49e4dbf9a1f5313012,82b38e1819841c49e4dbf9a1f5313012,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999995865124,1,sklearn,TRUE,FALSE,TRUE
+833f78d049b5386151c7f98b2836d8f7,833f78d049b5386151c7f98b2836d8f7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Leuciscidae; g__Luxilus; s__Luxilus cornutus,NA,0.667,VSEARCH,TRUE,FALSE,TRUE
+8377854474338cf60b17f3172f6e33e4,8377854474338cf60b17f3172f6e33e4,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Gadidae; g__Pollachius; s__Pollachius virens,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.108,83a92e5dd239ed755671fe2f07eaffbe,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Sebastidae; g__Sebastes,0.999849478265547,1,sklearn,NA,NA,NA
+NA.109,83e05a7555a3ceec6208a73c46488c7c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993391991876,1,sklearn,NA,NA,NA
+852e37ecfa2b3985d66117af128b8063,852e37ecfa2b3985d66117af128b8063,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+85988b6ae3b104b460117340a90a7711,85988b6ae3b104b460117340a90a7711,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.8907745136126,1,sklearn,FALSE,FALSE,TRUE
+NA.110,860982a3b25ac89f199bfc9d0638c6fe,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999986756865074,1,sklearn,NA,NA,NA
+86cf7adc6e5d05e04c179c3e6028cb5f,86cf7adc6e5d05e04c179c3e6028cb5f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Pleuronectiformes; f__Pleuronectidae; g__Hippoglossus; s__Hippoglossus hippoglossus,NA,0.6,VSEARCH,TRUE,FALSE,TRUE
+NA.111,86f5a3bc4c31ed02b07b035c0d7c3cfd,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993214498827,1,sklearn,NA,NA,NA
+871a321483c0cea40d6b0a0be2b4ea52,871a321483c0cea40d6b0a0be2b4ea52,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998949458541,1,sklearn,TRUE,FALSE,TRUE
+NA.112,880e04bdf08cb7d573913266aec9af7d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999999694816552,1,sklearn,NA,NA,NA
+8a75cb3419869424ee5a36764e006785,8a75cb3419869424ee5a36764e006785,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.990451328530032,1,sklearn,TRUE,FALSE,TRUE
+8afe4486500dc9dea66a633c58c401c4,8afe4486500dc9dea66a633c58c401c4,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Alosa; s__Alosa aestivalis,0.877928777410887,1,sklearn,TRUE,FALSE,TRUE
+NA.113,8b00b26f96e28ffb8ad4305fd433e0bf,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999973097950078,1,sklearn,NA,NA,NA
+8b5deef9f0656b813169764b00792865,8b5deef9f0656b813169764b00792865,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999962733939524,1,sklearn,TRUE,FALSE,TRUE
+8bac4117555d8ca7f29303e7050dfd4c,8bac4117555d8ca7f29303e7050dfd4c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cyprinodontiformes; f__Fundulidae; g__Fundulus; s__Fundulus heteroclitus,0.999498349354895,1,sklearn,TRUE,FALSE,TRUE
+NA.114,8ceefc24233251c740d87b8d325dd3ce,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999923149051702,1,sklearn,NA,NA,NA
+NA.115,8eaf68eb8947822db06813ead4c4f6c8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493373062,1,sklearn,NA,NA,NA
+NA.116,8f0df5ba5955d1c2b35d2a74ecc9a94b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993232385529,1,sklearn,NA,NA,NA
+8facb8f1f4ba6df308c52439f084755d,8facb8f1f4ba6df308c52439f084755d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999996659866,1,sklearn,TRUE,FALSE,TRUE
+8fd05d6fc303c007f6c16a5e11804d37,8fd05d6fc303c007f6c16a5e11804d37,d__Eukaryota; p__Chordata; c__Actinopteri; o__Labriformes; f__Labridae; g__Tautogolabrus; s__Tautogolabrus adspersus,0.999597114955329,1,sklearn,TRUE,FALSE,TRUE
+NA.117,90daa932bb3ab4bdfd85b852ed4d7a48,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Cyprinidae; g__Carassius,0.813767578162427,1,sklearn,NA,NA,NA
+NA.118,9133e80d220f8ee3c78c93e4a288f2e5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993480970187,1,sklearn,NA,NA,NA
+NA.119,9148ad0daff041dcac9877332dc3422d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.998699262656569,1,sklearn,NA,NA,NA
+91fdd22635acafb68a39de8cf43b7f84,91fdd22635acafb68a39de8cf43b7f84,d__Eukaryota; p__Chordata; c__Actinopteri; o__NA; f__Moronidae; g__Morone; s__Morone chrysops,NA,1,VSEARCH,FALSE,FALSE,TRUE
+NA.120,93c98d4c2276ea294e0eba860e01ea03,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999978582306404,1,sklearn,NA,NA,NA
+NA.121,942a2167b011738de8cf3b96b401cdd5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus,0.950097387516672,1,sklearn,NA,NA,NA
+NA.122,958b3d0c79d4acc1b10e7cecdf4d4e40,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993480970177,1,sklearn,NA,NA,NA
+NA.123,95f9c2f8cf051b0bfc26890984f0678b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.9999934933814,1,sklearn,NA,NA,NA
+NA.124,967a1d5ecfc59269fd30a8c160eb33ce,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993239641984,1,sklearn,NA,NA,NA
+NA.125,983091f37f3e7bd38b91a89b574feddf,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993115843682,1,sklearn,NA,NA,NA
+NA.126,98dcd22e7090f7926e660c93a13dc9da,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999999803817378,1,sklearn,NA,NA,NA
+NA.127,9a6447cf88351910ff1a65583debb435,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.998760013132411,1,sklearn,NA,NA,NA
+9d0e79dd2a13c63715b9980c065c16a0,9d0e79dd2a13c63715b9980c065c16a0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Merlucciidae; g__Merluccius; s__Merluccius merluccius,0.84654527627616,1,sklearn,FALSE,FALSE,TRUE
+NA.128,9fbad5bf1142e9a3fade2f4f9a0ced4c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999928841834758,1,sklearn,NA,NA,NA
+NA.129,9ffc57059606c282f1e736ffaf8ea5e1,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999991850515577,1,sklearn,NA,NA,NA
+NA.130,a007fab5daca48f9a4bf48e9ac277a9b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999965075087287,1,sklearn,NA,NA,NA
+NA.131,a0c42d2af9c0d45fdee4baddcdaffbdd,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus,0.92628385239048,1,sklearn,NA,NA,NA
+a1772e040b7f9ae54a7ddf5cdf22769c,a1772e040b7f9ae54a7ddf5cdf22769c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Centrarchiformes; f__Centrarchidae; g__Lepomis; s__Lepomis macrochirus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+a1e99fe7e5d64b3c205d5a770d9dcff2,a1e99fe7e5d64b3c205d5a770d9dcff2,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Lotidae; g__Brosme; s__Brosme brosme,0.999974466336304,1,sklearn,TRUE,FALSE,TRUE
+a20c47626ebdebb8ba87a6258ebc9856,a20c47626ebdebb8ba87a6258ebc9856,d__Eukaryota; p__Chordata; c__Actinopteri; o__Siluriformes; f__Ictaluridae; g__Ameiurus; s__Ameiurus nebulosus,NA,0.8,VSEARCH,TRUE,FALSE,TRUE
+a29054ffac431388b1ac45ae9add4988,a29054ffac431388b1ac45ae9add4988,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998724953915,1,sklearn,TRUE,FALSE,TRUE
+a41c4c145471f3860dd63b7582e597f2,a41c4c145471f3860dd63b7582e597f2,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Gadidae; g__Eleginus; s__Eleginus gracilis,0.97308090138785,1,sklearn,FALSE,FALSE,TRUE
+NA.132,a54661434af4219ce5ee1e144bd8795c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992967299118,1,sklearn,NA,NA,NA
+NA.133,a5aaf24fdd9f909816b6073fabf69936,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.998699268773183,1,sklearn,NA,NA,NA
+a6790623dc23f3353c6aa465336ced53,a6790623dc23f3353c6aa465336ced53,d__Eukaryota; p__Chordata; c__Actinopteri; o__Siluriformes; f__Ictaluridae; g__Ameiurus; s__Ameiurus nebulosus,0.937390761312186,1,sklearn,TRUE,FALSE,TRUE
+NA.134,a6ffb6dfad679370bffe4f6b4063b4ef,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999994338268495,1,sklearn,NA,NA,NA
+a722a38c7100c5acee1dddd38747918f,a722a38c7100c5acee1dddd38747918f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus; s__Myoxocephalus octodecemspinosus,0.993466649224205,1,sklearn,TRUE,FALSE,TRUE
+NA.135,a731a500acf1f1a92ed969eac203d57b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493340036,1,sklearn,NA,NA,NA
+NA.136,a8250568cae99d569efeacb68ea00e08,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999985582138237,1,sklearn,NA,NA,NA
+a94200c75765ba98d7017795f497f693,a94200c75765ba98d7017795f497f693,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.99998320638106,1,sklearn,TRUE,FALSE,TRUE
+a950be9f5a65e1185ce167740abee763,a950be9f5a65e1185ce167740abee763,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.988899730185029,1,sklearn,TRUE,FALSE,TRUE
+NA.137,aa4c0b5a05c1f730d062c5a63591e9a7,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus,0.931719093707898,1,sklearn,NA,NA,NA
+aacc7914e08769d603efe3cca026d622,aacc7914e08769d603efe3cca026d622,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998540783507,1,sklearn,TRUE,FALSE,TRUE
+aaeb2f719e334b8f533ac79374b5a30c,aaeb2f719e334b8f533ac79374b5a30c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.991317160756725,1,sklearn,TRUE,FALSE,TRUE
+NA.138,ac6e79cf5f7eb864928ef606ac59bc04,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999984330098584,1,sklearn,NA,NA,NA
+ad1636e972e3910a1f03aa7642dc3c80,ad1636e972e3910a1f03aa7642dc3c80,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999997984086562,1,sklearn,TRUE,FALSE,TRUE
+adf20f783cb0131be50598cef1caecd8,adf20f783cb0131be50598cef1caecd8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Agonidae; g__Hemitripterus; s__Hemitripterus americanus,0.950650554045532,1,sklearn,TRUE,FALSE,TRUE
+ae4aa502eba6265e577ef51f62d0b2f0,ae4aa502eba6265e577ef51f62d0b2f0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cyprinodontiformes; f__Fundulidae; g__Fundulus; s__Fundulus heteroclitus,0.996803008256897,1,sklearn,TRUE,FALSE,TRUE
+NA.139,ae5e0712760d638985e9dba4ddcbc518,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999951147207647,1,sklearn,NA,NA,NA
+af247e75179e60e71ce7e4d2022777da,af247e75179e60e71ce7e4d2022777da,d__Eukaryota; p__Chordata; c__Actinopteri; o__Labriformes; f__Labridae; g__Tautogolabrus; s__Tautogolabrus adspersus,0.999962825998718,1,sklearn,TRUE,FALSE,TRUE
+NA.140,b04747a2a2cd4dc27972338f59d66429,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999941242722808,1,sklearn,NA,NA,NA
+b0a7229ac116e055f5a3dbff1dd9eaa4,b0a7229ac116e055f5a3dbff1dd9eaa4,d__Eukaryota; p__Chordata; c__Actinopteri; o__Centrarchiformes; f__Centrarchidae; g__Lepomis; s__Lepomis gibbosus,NA,0.8,VSEARCH,TRUE,FALSE,TRUE
+NA.141,b1acb6a82f791a4010afe7eae34504e8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99999349336898,1,sklearn,NA,NA,NA
+b1f1df8f6acfc3f4cc878f114185e853,b1f1df8f6acfc3f4cc878f114185e853,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cypriniformes; f__Catostomidae; g__Catostomus; s__Catostomus commersonii,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.142,b3f5d4613592313bc889040f42e9a64b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus,0.947095548914691,1,sklearn,NA,NA,NA
+NA.143,b50ac10d00c6d80db1b751983b986ffe,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99999031652171,1,sklearn,NA,NA,NA
+NA.144,b5436ab79c5d5ff0cac07037883325da,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992942814551,1,sklearn,NA,NA,NA
+b556ae2821e70fcba3c1ce57454b5717,b556ae2821e70fcba3c1ce57454b5717,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.819321124894837,1,sklearn,FALSE,FALSE,TRUE
+NA.145,b6103e2cc7b78c984112d5a51c907540,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999930014836807,1,sklearn,NA,NA,NA
+b6be576354cea10830663d97e6bdbd71,b6be576354cea10830663d97e6bdbd71,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.992571403324291,1,sklearn,FALSE,FALSE,TRUE
+NA.146,b7da81c9f3be25520472897c06f8aee6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993480960414,1,sklearn,NA,NA,NA
+b7f61135eb2f9a863292c706ddb7e245,b7f61135eb2f9a863292c706ddb7e245,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Sebastidae; g__Sebastes; s__Sebastes fasciatus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.147,b880f9436e791127406eeda422d85c25,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.998699268660424,1,sklearn,NA,NA,NA
+NA.148,b928dfad716bec1dc355c8503010eba0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99869644932899,1,sklearn,NA,NA,NA
+ba09e099ae05dbdceb4837ba3c2c0484,ba09e099ae05dbdceb4837ba3c2c0484,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus; s__Myoxocephalus polyacanthocephalus,NA,1,VSEARCH,FALSE,FALSE,TRUE
+NA.149,ba9c93b4cf6d7659dd2a8ccf23adf4ce,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999994830257192,1,sklearn,NA,NA,NA
+bab5d3f62a82b1c23c03f3433dc23049,bab5d3f62a82b1c23c03f3433dc23049,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cyclopteridae; g__Cyclopterus; s__Cyclopterus lumpus,0.999024153958951,1,sklearn,TRUE,FALSE,TRUE
+NA.150,babc4bb41ad625fe21bfa6703ca45aa4,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99995216479073,1,sklearn,NA,NA,NA
+NA.151,bb04539a8b6af64068ed722aa9872e9f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999998639584933,1,sklearn,NA,NA,NA
+NA.152,bc118d61ac91b4dd4066e1675082abe3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999999805565995,1,sklearn,NA,NA,NA
+NA.153,bd16f604e3ec4832fa375a5de71cb43b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493383905,1,sklearn,NA,NA,NA
+bf0716044f0c0be85735b0ac90b17861,bf0716044f0c0be85735b0ac90b17861,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.154,bfa72abd03e7ffa5142203f9a2229d2a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999928841821824,1,sklearn,NA,NA,NA
+NA.155,bfb27f5cda941cce1ccc40c46ee98664,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993497496492,1,sklearn,NA,NA,NA
+NA.156,c42df578cddf2de64a1516745de747a3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493256847,1,sklearn,NA,NA,NA
+c4342eb852ea0bc43963d33a23e8488b,c4342eb852ea0bc43963d33a23e8488b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999966414079741,1,sklearn,TRUE,FALSE,TRUE
+c4e5dfb6688be37bd283169c451c68a8,c4e5dfb6688be37bd283169c451c68a8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.783206127538626,1,sklearn,TRUE,FALSE,TRUE
+c4e8e2da101f695bdd7675813537b8cf,c4e8e2da101f695bdd7675813537b8cf,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999994842042,1,sklearn,TRUE,FALSE,TRUE
+c5f3c303325cdbffd48b6d77f30a1e8d,c5f3c303325cdbffd48b6d77f30a1e8d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Centrarchiformes; f__Centrarchidae; g__Lepomis; s__Lepomis gibbosus,0.999376199916547,1,sklearn,TRUE,FALSE,TRUE
+NA.157,c60cce7bd5fb8b18be425306ea745ab3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Sebastidae; g__Sebastes,0.999783242170085,1,sklearn,NA,NA,NA
+NA.158,c61e123630bbd02662356ad39ef118b1,d__Eukaryota; p__Chordata; c__Actinopteri; o__Pleuronectiformes; f__Pleuronectidae,0.999912111027509,1,sklearn,NA,NA,NA
+NA.159,c62b0976df0c21a6a5f69c3b7f7478d3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Pholidae; g__Pholis,0.999367751995247,1,sklearn,NA,NA,NA
+NA.160,c684bc56b7646aa93e34d462e151d327,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493346246,1,sklearn,NA,NA,NA
+c6900766037d0e532f08504c99184974,c6900766037d0e532f08504c99184974,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Gadidae; g__Eleginus; s__Eleginus gracilis,0.991554106379644,1,sklearn,FALSE,FALSE,TRUE
+NA.161,c6abef7f38b87ea231d2d6f36e1dd4e0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999976496459416,1,sklearn,NA,NA,NA
+c8c4850c23141db79a3584e6a161b317,c8c4850c23141db79a3584e6a161b317,d__Eukaryota; p__Chordata; c__Actinopteri; o__Lophiiformes; f__Lophiidae; g__Lophius; s__Lophius americanus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.162,c985ad757c0aff892856edc0baf639f9,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992900806013,1,sklearn,NA,NA,NA
+caba00a3b4252ef1350b9c03c66fea54,caba00a3b4252ef1350b9c03c66fea54,d__Eukaryota; p__Chordata; c__Actinopteri; o__Anguilliformes; f__Anguillidae; g__Anguilla; s__Anguilla rostrata,NA,1,VSEARCH,TRUE,FALSE,TRUE
+cad170837ba718c43450609ec03f47df,cad170837ba718c43450609ec03f47df,d__Eukaryota; p__Chordata; c__Actinopteri; o__Lophiiformes; f__Lophiidae; g__Lophius; s__Lophius americanus,0.999893577553482,1,sklearn,TRUE,FALSE,TRUE
+cc5de1240d6aec211bdc0ba4bb567a1c,cc5de1240d6aec211bdc0ba4bb567a1c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+cc918e28c0e5a84b7b75501da303f36b,cc918e28c0e5a84b7b75501da303f36b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999987580014071,1,sklearn,TRUE,FALSE,TRUE
+NA.163,ccca2279ca02310032bb7ecfb17a1fce,d__Eukaryota; p__Chordata; c__Actinopteri; o__Pleuronectiformes; f__Pleuronectidae,0.999629903194635,1,sklearn,NA,NA,NA
+cd0a9d9bcabc3b1d2a699f1f3428f3cc,cd0a9d9bcabc3b1d2a699f1f3428f3cc,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.99999823836703,1,sklearn,TRUE,FALSE,TRUE
+NA.164,cd0ee9e8c4239d5596704de09d357f3c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999977653607648,1,sklearn,NA,NA,NA
+NA.165,cdfa1e1a1e098a4b54acc8cf91ee3d6c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993196198063,1,sklearn,NA,NA,NA
+NA.166,ce165c309e091fa97670b0c6dd8fab2d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993232385529,1,sklearn,NA,NA,NA
+cea9e46ba358366c8f0b5105f5b27eb6,cea9e46ba358366c8f0b5105f5b27eb6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Serranidae; g__Centropristis; s__Centropristis striata,NA,1,VSEARCH,TRUE,FALSE,TRUE
+cf025ae4af2fbfcaaa0a422e13c33db4,cf025ae4af2fbfcaaa0a422e13c33db4,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998828631935,1,sklearn,TRUE,FALSE,TRUE
+d0306539e5d0fde55ba3eb7ca94bdfa3,d0306539e5d0fde55ba3eb7ca94bdfa3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Istiophoriformes; f__Xiphiidae; g__Xiphias; s__Xiphias gladius,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.167,d1b135fe56498536d4245e73c3714dcf,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.998293709599033,1,sklearn,NA,NA,NA
+NA.168,d30dd8bbcd66144e7229784ec3a976b2,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493270517,1,sklearn,NA,NA,NA
+NA.169,d433ee5827d6ee1076e722a8faebad21,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993214498836,1,sklearn,NA,NA,NA
+d49d5af0e3a68dd460877f6c4bd605ab,d49d5af0e3a68dd460877f6c4bd605ab,d__Eukaryota; p__Chordata; c__Actinopteri; o__Labriformes; f__Labridae; g__Tautogolabrus; s__Tautogolabrus adspersus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+d51d0cf4699d6ddc1e72006ce6d5232b,d51d0cf4699d6ddc1e72006ce6d5232b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.99999998239737,1,sklearn,TRUE,FALSE,TRUE
+NA.170,d568eb27cd07956ca1530d8aa66dd184,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992729971852,1,sklearn,NA,NA,NA
+NA.171,d5c2458ff651c45acde56db6b2a327fe,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999928841698475,1,sklearn,NA,NA,NA
+d6917058e5b3302aecedc3a8b4e1f79b,d6917058e5b3302aecedc3a8b4e1f79b,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999916961787,1,sklearn,TRUE,FALSE,TRUE
+NA.172,d70adde4fb9d90af2d3241b02fde34cd,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999998189627507,1,sklearn,NA,NA,NA
+NA.173,d78dcfcd15931995a0d1d584a0a5de2a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493368952,1,sklearn,NA,NA,NA
+d8f1ae4e27f0d1abb83b9fe2fdc51c98,d8f1ae4e27f0d1abb83b9fe2fdc51c98,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus; s__Myoxocephalus quadricornis,NA,0.667,VSEARCH,FALSE,FALSE,TRUE
+da94b7f34b7105c53be2139f1ccd2068,da94b7f34b7105c53be2139f1ccd2068,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,0.999999994756379,1,sklearn,TRUE,FALSE,TRUE
+NA.174,dd375fabd9a7c5fc37c4b34c6628da94,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999946547078796,1,sklearn,NA,NA,NA
+de1e2097038a24cb76600c94c5f79597,de1e2097038a24cb76600c94c5f79597,d__Eukaryota; p__Chordata; c__Actinopteri; o__Atheriniformes; f__Atherinopsidae; g__Menidia; s__Menidia menidia,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.175,df91b6b5e254f56869c7c80a64ef9302,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493314138,1,sklearn,NA,NA,NA
+NA.176,e0a0aece58fa40dc11c02d01615ffc5c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993259808472,1,sklearn,NA,NA,NA
+NA.177,e0ac1001dad9ecf233b1d8fd7d5fd432,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Cottidae; g__Myoxocephalus,0.928708597864154,1,sklearn,NA,NA,NA
+NA.178,e1f47d1200f966e1ff13914bb75887aa,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992876942469,1,sklearn,NA,NA,NA
+NA.179,e23cd1ed82c78224441435f1f7bdcca1,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999987235565855,1,sklearn,NA,NA,NA
+NA.180,e38084e25092ffa399ef15e2c28206b0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993989190697,1,sklearn,NA,NA,NA
+e3efc1b4c2e58bfaa6cf6d0a4bbe8275,e3efc1b4c2e58bfaa6cf6d0a4bbe8275,d__Eukaryota; p__Chordata; c__Actinopteri; o__Euteleosteomorpha; f__Moronidae; g__Morone; s__Morone saxatilis,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.181,e478e0edc5e2694b59ca5333dda6f9fd,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999965989081042,1,sklearn,NA,NA,NA
+NA.182,e59d81a310409203540d9e14d95c8d4c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.983925824165825,1,sklearn,NA,NA,NA
+e651b15effbee61cbb573f20fb689c78,e651b15effbee61cbb573f20fb689c78,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Gadidae; g__Melanogrammus; s__Melanogrammus aeglefinus,0.862822233807321,1,sklearn,TRUE,FALSE,TRUE
+NA.183,e6570eb254bd77d6962de3f66b0e9a25,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999992792592539,1,sklearn,NA,NA,NA
+NA.184,e76748b6d36c66fcf3387e5d3c616c08,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.99999350125229,1,sklearn,NA,NA,NA
+NA.185,e7a4e5e5f5b610b9c06344346b9aa64d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Zoarcidae; g__Lycodes,0.819991534271869,1,sklearn,NA,NA,NA
+NA.186,e7b12baf0aa2e0da0eb89bbfbe19d051,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999965353392735,1,sklearn,NA,NA,NA
+e82e89943e3d446970e8f5d4dea0e9a6,e82e89943e3d446970e8f5d4dea0e9a6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.832714480580271,1,sklearn,FALSE,FALSE,TRUE
+e87ae650f1c4c266ba5027f5850135f8,e87ae650f1c4c266ba5027f5850135f8,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Gadidae; g__Melanogrammus; s__Melanogrammus aeglefinus,NA,0.667,VSEARCH,TRUE,FALSE,TRUE
+NA.187,e93d7aa4aab822b9f1ae0035f7e76881,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993506376435,1,sklearn,NA,NA,NA
+ebc9b3d39f3f838978af29a406e60bb3,ebc9b3d39f3f838978af29a406e60bb3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999998278973169,1,sklearn,TRUE,FALSE,TRUE
+NA.188,ebf2dd699c2420692534d4ba89aa7671,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999990316622642,1,sklearn,NA,NA,NA
+ebf466ccc91ebf01a7715fda8cd20549,ebf466ccc91ebf01a7715fda8cd20549,d__Eukaryota; p__Chordata; c__Actinopteri; o__Gadiformes; f__Gadidae; g__Eleginus; s__Eleginus gracilis,0.993511716141347,1,sklearn,FALSE,FALSE,TRUE
+NA.189,ebfe90d93260d228bd4341176f634da6,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999987069981557,1,sklearn,NA,NA,NA
+NA.190,ec56b4af29173747095a217006aea010,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493369048,1,sklearn,NA,NA,NA
+NA.191,ec6a1cd6b68ee512fdaeaf6f7551d7bb,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999792992755463,1,sklearn,NA,NA,NA
+NA.192,ed6158b3ab9df8891bf9d7ec47956739,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999960495268923,1,sklearn,NA,NA,NA
+NA.193,eda89350aef8903dca37467198fcc0ce,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999985582152813,1,sklearn,NA,NA,NA
+NA.194,ede00f31fdde21fa56075eccf385d5a5,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993506357571,1,sklearn,NA,NA,NA
+NA.195,f044b8740ccb7e9433fe8bffef0424db,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493377652,1,sklearn,NA,NA,NA
+f047ca365076435f14d5bc736039c869,f047ca365076435f14d5bc736039c869,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999983201816354,1,sklearn,TRUE,FALSE,TRUE
+NA.196,f1dbbd517f10913c1088bb004a17997d,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999994358484724,1,sklearn,NA,NA,NA
+NA.197,f6a4755a0ec5e292cd9f8fff9d1781e0,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993493356166,1,sklearn,NA,NA,NA
+f91adddb3e7cdb7ee462298d7a1d3b5c,f91adddb3e7cdb7ee462298d7a1d3b5c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Cyprinodontiformes; f__Fundulidae; g__Fundulus; s__Fundulus diaphanus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+NA.198,f9990a8c2cf1ddcdd92ff9cc7b0e4bcd,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999977139212303,1,sklearn,NA,NA,NA
+NA.199,f9db9465cbfaaf925293a62b2d973473,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999902428588679,1,sklearn,NA,NA,NA
+f9e78fc6f0b100d87729a84e14c147ff,f9e78fc6f0b100d87729a84e14c147ff,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,NA,1,VSEARCH,TRUE,FALSE,TRUE
+fa1b13ed53aa6247006d120ec7792e09,fa1b13ed53aa6247006d120ec7792e09,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Clupea; s__Clupea harengus,0.995977754879812,1,sklearn,TRUE,FALSE,TRUE
+NA.200,fc06d4a502dd082c504fb79d899ead3c,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993624767262,1,sklearn,NA,NA,NA
+NA.201,fc241d406e1ff1bc5bb04daa53662631,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999994391384277,1,sklearn,NA,NA,NA
+fc4aa16810635452d278a21b350bbc5a,fc4aa16810635452d278a21b350bbc5a,d__Eukaryota; p__Chordata; c__Actinopteri; o__Salmoniformes; f__Salmonidae; g__Salmo; s__Salmo salar,NA,1,VSEARCH,TRUE,FALSE,TRUE
+fcd2618aa9c360b9f8c07170ba8fb35f,fcd2618aa9c360b9f8c07170ba8fb35f,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia; s__Brevoortia gunteri,0.869613747289827,1,sklearn,FALSE,FALSE,TRUE
+NA.202,fcdd91f9716ab4aec0328d38485bcb67,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Gasterosteidae; g__Pungitius,0.999999808963069,1,sklearn,NA,NA,NA
+ff5d382e7205415790ccd0b1dc792ad3,ff5d382e7205415790ccd0b1dc792ad3,d__Eukaryota; p__Chordata; c__Actinopteri; o__Perciformes; f__Serranidae; g__Centropristis; s__Centropristis striata,0.999999999999702,1,sklearn,TRUE,FALSE,TRUE
+ffb8a2122505a5d07893f95f09c54254,ffb8a2122505a5d07893f95f09c54254,d__Eukaryota; p__Chordata; c__Actinopteri; o__Scombriformes; f__Scombridae; g__Scomber; s__Scomber scombrus,0.999974702466064,1,sklearn,TRUE,FALSE,TRUE
+NA.203,ffe215acdb1d43f506625c8524aaebba,d__Eukaryota; p__Chordata; c__Actinopteri; o__Clupeiformes; f__Clupeidae; g__Brevoortia,0.999993501251732,1,sklearn,NA,NA,NA

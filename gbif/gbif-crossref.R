@@ -22,6 +22,8 @@ require(tidyverse)
 ## todo: 
 ## 1. add output table. This summary table should help identify taxa that are common in GBIF, but not found in the reference database.
 
+data.frame(table(reftax$Order))
+
 taxa_in <- read_qza(taxa_in)$data
 reftax <- read_qza(reftax)$data %>% parse_taxonomy()
 
