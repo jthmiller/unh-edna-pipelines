@@ -61,19 +61,23 @@ qiime demux summarize \
 #### Parameters used in denoising
 ```
 
-    ## truncation length of forward and reverse reads
-    trunclenf=110
-    trunclenr=105
 
-    ## The trim set to zero bc cutadapt did this
-    trimleftf=0
-    trimleftr=0
 ```
 
 
 
 #### Denoising
 ```
+## truncation length of forward and reverse reads
+trunclenf=110
+trunclenr=105
+
+## The trim set to zero bc cutadapt did this
+trimleftf=0
+trimleftr=0
+
+threads=4
+
 qiime dada2 denoise-paired \
     --i-demultiplexed-seqs qiime_out/MBNH-MFNX112023_demux_cutadapt.qza  \
     --p-trunc-len-f ${trunclenf} \
@@ -112,7 +116,6 @@ query_cov=0.8
 perc_identity=0.95
 weak_id=0.80 
 tophit_perc_identity=0.90
-
 
 refreads=${refreads:-/home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/12S-seqs-derep-uniq.qza}
 reftax=${reftax:-/home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/12S-tax-derep-uniq.qza}
