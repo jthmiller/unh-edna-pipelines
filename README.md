@@ -127,6 +127,46 @@ sklearn=${sklearn:-/home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2
 
 
 
+#### My automated workflow
+##### Denoise template
+```
+    code/qiime2_denoise.sh  \
+        <project name> \
+        <destination of the results> \
+        <full path to the directory of fastqs> \
+        <number of threads to use. Dont exceed 6> \
+        <name of the primer> \
+        <paired or single> &> <projectname>.out
+```
+##### Denoise example
+```
+    code/qiime2_denoise.sh  \
+        NERRWE-MFNX082423 \
+        data/NERR/mifish/runs \
+        raw-data/cobb.sr.unh.edu/managed/231103_A01346_0122_AHVKGVDRX2_20Mer110323-AW-NERRWE-MFNX082423/reads \
+        4 \
+        mitohelper \
+        paired &> data/runlogs/runlog.NERRWE-MFNX082423.out
+```
+
+
+
+
+
+
+##### Classification
+I'll need to re-write the summary script to convert ASVs and tables into species table
+```
+code/qiime2_taxonomy.sh  \
+    NERRJCMAPBSF-18SNX091423 \
+    data/NERR/18s/runs \
+    raw-data/cobb.sr.unh.edu/managed/20230929_FS10001196_19_BSB09423-1115_16Mer092823-iSeq-NERRJCMAPBSF-18SNX091423/reads \
+    12 \
+    18s &> data/runlogs/runlog.NERRJCMAPBSF-18SNX091423
+
+```
+
+
 
 
 
