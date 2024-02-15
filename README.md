@@ -55,7 +55,7 @@ qiime cutadapt trim-paired \
     --i-demultiplexed-sequences qiime_out/MBNH-MFNX112023_demux.qza \
     --o-trimmed-sequences qiime_out/MBNH-MFNX112023_demux_cutadapt.qza \
     --p-front-f '^GTCGGTAAAACTCGTGCCAGC' \
-    --p-front-r '^GTCGGTAAAACTCGTGCCAGC' \
+    --p-front-r '^CATAGTGGGGTATCTAATCCCAGTTTG' \
     --p-cores 16 \
     --p-discard-untrimmed \
     --p-match-adapter-wildcards \
@@ -67,27 +67,6 @@ qiime cutadapt trim-paired \
 qiime demux summarize \
    --i-data qiime_out/MBNH-MFNX112023_demux_cutadapt.qza \
    --o-visualization qiime_out/MBNH-MFNX112023_demux_cutadapt.qzv "
-```
-
-#### Parameters and reference databases used in QIIME
-```
-    fw='^GTCGGTAAAACTCGTGCCAGC'	
-    rv='^CATAGTGGGGTATCTAATCCCAGTTTG'
-
-    ## trunc
-    trunclenf=110
-    trunclenr=105
-
-    ## trim set to zero- cutadapt did this
-    trimleftf=0
-    trimleftr=0
-
-    ## taxonomy
-    maxaccepts=20
-    query_cov=0.8 
-    perc_identity=0.95
-    weak_id=0.80 
-    tophit_perc_identity=0.90
 ```
 
 #### Denoising
