@@ -88,55 +88,69 @@ qiime demux summarize \
     perc_identity=0.95
     weak_id=0.80 
     tophit_perc_identity=0.90
-
-
-    refreads=${refreads:-/home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/12S-seqs-derep-uniq.qza}
-    reftax=${reftax:-/home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/12S-tax-derep-uniq.qza}
-    blastdb=${blastdb:-/home/unhAW/jtmiller/watts/ref-database/MiFish/mitohelper/QIIME-compatible/blast/12S-seqs-derep-db/12S-seqs-derep-db}
-    sklearn=${sklearn:-/home/unhAW/jtmiller/watts/ref-database/MiFish/MitoFish/july2023/mitofish-classifier.qza}
 ```
 
 #### Denoising
 ```
 qiime dada2 denoise-paired \
     --i-demultiplexed-seqs qiime_out/MBNH-MFNX112023_demux_cutadapt.qza  \
-    --p-trunc-len-f ${trunclenf} \
-    --p-trunc-len-r ${trunclenr} \
-    --p-trim-left-f ${trimleftf} \
-    --p-trim-left-r ${trimleftr} \
-    --p-n-threads ${threads} \
-    --o-denoising-stats qiime_out/MBNH-MFNX112023_dns \
-    --o-table qiime_out/MBNH-MFNX112023_table \
-    --o-representative-sequences qiime_out/MBNH-MFNX112023_rep-seqs \
+    --p-trunc-len-f 110 \
+    --p-trunc-len-r 105 \
+    --p-trim-left-f 0 \
+    --p-trim-left-r 0 \
+    --p-n-threads 8 \
+    --o-denoising-stats qiime_out/<project_name>_dns \
+    --o-table qiime_out/<project_name>_table \
+    --o-representative-sequences qiime_out/<project_name>_rep-seqs \
     > qiime_out/DADA2_denoising.log 2>&1
+
+
+qiime feature-classifier classify-hybrid-vsearch-sklearn \
+  --i-query qiime_out/<project_name>_rep-seqs.qza \
+  --i-classifier /home/unhAW/shared/refs/mitofish_july2023_classifier.qza \
+  --i-reference-reads /home/unhAW/shared/refs/mitofish_july2023_seqs.qza \
+  --i-reference-taxonomy /home/unhAW/shared/refs/mitofish_july2023_tax.qza \
+  --p-threads 8 \
+  --p-query-cov 0.95 \
+  --p-perc-identity 0.90 \
+  --p-maxrejects all \
+  --p-maxaccepts all \
+  --p-maxhits all \
+  --p-min-consensus 0.51 \
+  --p-confidence 0 \
+  --o-classification qiime_out/<project_name>_hybrid_taxonomy
+
 ```
 
 ```
 qiime feature-table tabulate-seqs \
-    --i-data qiime_out/MBNH-MFNX112023_rep-seqs.qza \
-    --o-visualization qiime_out/MBNH-MFNX112023_rep-seqs
+    --i-data qiime_out/<project_name>_rep-seqs.qza \
+    --o-visualization qiime_out/<project_name>_rep-seqs
 
 qiime metadata tabulate \
-    --m-input-file qiime_out/MBNH-MFNX112023_dns.qza \
-    --o-visualization qiime_out/MBNH-MFNX112023_dns 
+    --m-input-file qiime_out/<project_name>_dns.qza \
+    --o-visualization qiime_out/<project_name>_dns 
 
 qiime tools export \
-    --input-path qiime_out/MBNH-MFNX112023_dns.qzv \
-    --output-path qiime_out/MBNH-MFNX112023_dns_export 
+    --input-path qiime_out/<project_name>_dns.qzv \
+    --output-path qiime_out/<project_name>_dns_export 
+
+cp qiime_out/<project_name>_dns_export/metadata.tsv qiime_out/<project_name>_metadata.tsv 
 ```
 
-```
-cp qiime_out/MBNH-MFNX112023_dns_export/metadata.tsv qiime_out/MBNH-MFNX112023_metadata.tsv 
-```
+
+
+
+
 
 #### Autogenerate a text file metadata
 ```
-echo -e "file\tprePolyG_filter\tpostPolyG_filter\t$(head -n1 qiime_out/MBNH-MFNX112023_metadata.tsv | sed 's/ /_/g' )" > qiime_out/MBNH-MFNX112023_read_report.txt \
+echo -e "file\tprePolyG_filter\tpostPolyG_filter\t$(head -n1 qiime_out/<project_name>_metadata.tsv | sed 's/ /_/g' )" > qiime_out/<project_name>_read_report.txt \
 while read line ; do 
         samp=$( echo $line | awk '{print $1}' )
         lintab=$(echo $line | awk -v OFS='\t' '{print $0}')
         echo -e "$(grep $samp qiime_out/readcounts | head -n1)\t${line}"
-        done <<< "$( grep -v ^# qiime_out/MBNH-MFNX112023_metadata.tsv | grep -v '^sample-id')" | sort -h -k12 >> qiime_out/MBNH-MFNX112023_read_report.txt \
+        done <<< "$( grep -v ^# qiime_out/<project_name>_metadata.tsv | grep -v '^sample-id')" | sort -h -k12 >> qiime_out/<project_name>_read_report.txt \
     && echo "done with paired end" && date || date && echo 'failed' 
 ```
 
