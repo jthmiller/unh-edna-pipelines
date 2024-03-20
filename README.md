@@ -18,7 +18,7 @@ wget -r -np -R "index.html*" --http-user=user --http-password=AvFBDnVBAf https:/
 ##### This will put the data in 'raw-data/cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_16Mer121923-AW-HIDAR-18SNX120623/reads'
 
 
-#### In many cases, denoising and taxonomy can be ran with the shell script wrapper for the pipeline as shown below. Or, each step of the pipeline can be ran manually. To run each step manually, skip down to "Manually run the pipeline"
+### In many cases, denoising and taxonomy can be ran with the shell script wrapper for the pipeline as shown below. Or, each step of the pipeline can be ran manually. To run each step manually, skip down to "Manually run the pipeline"
 
 ### To run the shell script wrapper pipeline:
 ```
@@ -49,27 +49,27 @@ qiime2_denoise.sh  \
 ```
 For taxonomy, the format is the same, except the paired/single is no longer needed
 
-# Manually run the pipeline
-## make out dirs
+# Manually running the pipeline
+#### make an output directory for the results
 ```
-mkdir -p  data/qiime_out data/plots data/metadata 
+mkdir -p  data/qiime_out 
 ```
-## make softlinks to original fastqs
+#### make softlinks to the raw-data fastqs
 ```
 find "$( realpath raw-data/cobb.sr.unh.edu/managed/231201_A01346_0124_BHHFKWDRX3_16Mer120123-AW-MBNH-MFNX112023/reads)" -type f -name "*fastq.gz" -exec ln -sf {} data/reads \;
 cd data/reads
 ```
 
-#### Count the number of reads for each file for QAQC
+#### Optional: Count the number of reads for each file for QAQC
 ```
  for fq in *R1_001.fastq.gz ; do echo "$(basename $fq | sed 's/_L002_R1_001.fastq.gz//' ) $(zgrep '^@' "$fq" | wc -l)" ; done | sort -k2 -h | awk -v OFS='\t' '{ print $1,$2 }' > ../qiime_out/readcounts
  cd ../
 ```
 
-#### qiime2 conda
+#### Activate the qiime2 conda environment
 ```conda activate qiime2-2022.8```
 
-#### import fastqs to qiime
+#### Import the fastqs, and export them to a qiime format file (.qza)
 ```
 qiime tools import \
    --type "SampleData[PairedEndSequencesWithQuality]"  \
@@ -78,7 +78,7 @@ qiime tools import \
    --output-path qiime_out/MBNH-MFNX112023_demux 
 ```
 
-#### Run cutadapt to trim off Mifish primer sequences
+#### Run cutadapt to trim off the primer sequences (here, mifish). Replace the front-f and front-r for other primers
 ```
     fw='^GTCGGTAAAACTCGTGCCAGC'	
     rv='^CATAGTGGGGTATCTAATCCCAGTTTG'
@@ -94,17 +94,17 @@ qiime cutadapt trim-paired \
     --verbose > qiime_out/$(date +%m%d%Y)_cutadapt.out 2>&1
 ```
 
-#### Statistics summarizing demux
+#### Optional statistics summarizing demux
 ```
 qiime demux summarize \
    --i-data qiime_out/MBNH-MFNX112023_demux_cutadapt.qza \
    --o-visualization qiime_out/MBNH-MFNX112023_demux_cutadapt.qzv "
 ```
 
-#### Denoising
+#### Denoising. Replace <project_name>
 ```
 qiime dada2 denoise-paired \
-    --i-demultiplexed-seqs qiime_out/MBNH-MFNX112023_demux_cutadapt.qza  \
+    --i-demultiplexed-seqs qiime_out/<project_name>_demux_cutadapt.qza  \
     --p-trunc-len-f 110 \
     --p-trunc-len-r 105 \
     --p-trim-left-f 0 \
