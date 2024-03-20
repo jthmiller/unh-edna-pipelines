@@ -1,0 +1,86 @@
+Kingdom,Phylum,Class,Order,Family,Genus,Species,in_gbif,gbif_occurances
+Eukaryota,Chordata,Actinopteri,Syngnathiformes,Syngnathidae,Syngnathus,Syngnathus scovelli,NO MATCH,NA
+Eukaryota,Chordata,Chondrichthyes,Lamniformes,Alopiidae,Cetorhinus,Cetorhinus maximus,MATCH,40
+Eukaryota,Chordata,Actinopteri,Cypriniformes,Leuciscidae,Notropis,Notropis bifrenatus,MATCH,50
+Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Gadus,Gadus macrocephalus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Pholidae,Pholis,Pholis crassispina,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Scombriformes,Stromateidae,Peprilus,Peprilus burti,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Pseudopleuronectes,Pseudopleuronectes obscurus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Scombriformes,Scombridae,Thunnus,Thunnus thynnus,MATCH,30
+Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Gadus,Gadus ogac,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Scombriformes,Pomatomidae,Pomatomus,Pomatomus saltatrix,MATCH,321
+Eukaryota,Chordata,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,Ammodytes personatus,NO MATCH,NA
+Eukaryota,Chordata,Chondrichthyes,Lamniformes,Alopiidae,Isurus,Isurus oxyrinchus,MATCH,9
+Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Hippoglossoides,Hippoglossoides platessoides,MATCH,22609
+Eukaryota,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Carassius,NA,NA,NA
+Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Gadus,Gadus chalcogrammus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,NA,NA,NA,NA
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Sardinella,Sardinella longiceps,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Hippoglossoides,NA,NA,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Stichaeidae,Eumesogrammus,Eumesogrammus praecisus,MATCH,30
+Eukaryota,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,NA,NA,NA
+Eukaryota,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Fundulus,Fundulus similis,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Cyprinus,Cyprinus carpio,MATCH,288
+Eukaryota,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,Sebastes pachycephalus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Apeltes,Apeltes quadracus,MATCH,73
+Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Gadus,Gadus morhua,MATCH,47390
+Eukaryota,Chordata,Actinopteri,Centrarchiformes,Centrarchidae,Lepomis,Lepomis auritus,MATCH,457
+Eukaryota,Chordata,Actinopteri,Gadiformes,Lotidae,Brosme,Brosme brosme,MATCH,2165
+Eukaryota,Chordata,Actinopteri,Uranoscopiformes,Ammodytidae,Ammodytes,Ammodytes dubius,MATCH,2063
+Eukaryota,Chordata,Actinopteri,Anguilliformes,Anguillidae,Anguilla,Anguilla rostrata,MATCH,603
+Eukaryota,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Fundulus,Fundulus heteroclitus,MATCH,632
+Eukaryota,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,NA,NA,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus octodecemspinosus,MATCH,37069
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa pseudoharengus,MATCH,10177
+Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Pungitius,Pungitius pungitius,MATCH,24
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa aestivalis,MATCH,464
+Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Pungitius,NA,NA,NA
+Eukaryota,Chordata,Actinopteri,Osmeriformes,Osmeridae,Osmerus,Osmerus mordax,MATCH,54
+Eukaryota,Chordata,Actinopteri,Spariformes,Sparidae,Pagellus,Pagellus bellottii,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Scombriformes,Scombridae,Thunnus,Thunnus alalunga,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Siluriformes,Ictaluridae,Ameiurus,Ameiurus natalis,MATCH,76
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa sapidissima,MATCH,2636
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Brevoortia,Brevoortia gunteri,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa alabamae,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Agonidae,Hemitripterus,Hemitripterus americanus,MATCH,13463
+Eukaryota,Chordata,Actinopteri,Scombriformes,Scombridae,Scomber,Scomber scombrus,MATCH,14152
+Eukaryota,Chordata,Actinopteri,Cypriniformes,Leuciscidae,Rhinichthys,Rhinichthys cataractae,MATCH,44
+Eukaryota,Chordata,Actinopteri,Cypriniformes,Leuciscidae,Luxilus,Luxilus cornutus,MATCH,183
+Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Pollachius,Pollachius virens,MATCH,20756
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Clupea,Clupea harengus,MATCH,48289
+Eukaryota,Chordata,Actinopteri,Myctophiformes,Myctophidae,Lampanyctodes,Lampanyctodes hectoris,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Liparidae,Liparis,Liparis ochotensis,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Hippoglossus,NA,NA,NA
+Eukaryota,Chordata,Actinopteri,Cypriniformes,Cyprinidae,Carassius,Carassius carassius,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Paralichthyidae,Paralichthys,Paralichthys dentatus,MATCH,700
+Eukaryota,Chordata,Chondrichthyes,Rajiformes,Rajidae,Leucoraja,Leucoraja erinacea,MATCH,27050
+Eukaryota,Chordata,Actinopteri,Perciformes,Stichaeidae,Askoldia,Askoldia variegata,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Siluriformes,Ictaluridae,Ameiurus,Ameiurus nebulosus,MATCH,271
+Eukaryota,Chordata,Actinopteri,Carangiformes,Carangidae,Caranx,Caranx crysos,MATCH,19
+Eukaryota,Chordata,Actinopteri,Centrarchiformes,Centrarchidae,Lepomis,Lepomis gibbosus,MATCH,755
+Eukaryota,Chordata,Actinopteri,Cypriniformes,Catostomidae,Catostomus,Catostomus commersonii,MATCH,201
+Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus quadricornis,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Gasterosteidae,Gasterosteus,Gasterosteus aculeatus,MATCH,24
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Alosa,Alosa mediocris,MATCH,27
+Eukaryota,Chordata,Actinopteri,Perciformes,Sebastidae,Sebastes,Sebastes fasciatus,MATCH,31
+Eukaryota,Chordata,Actinopteri,Labriformes,Labridae,Tautoga,Tautoga onitis,MATCH,324
+Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus polyacanthocephalus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Cyclopteridae,Cyclopterus,Cyclopterus lumpus,MATCH,375
+Eukaryota,Chordata,Chondrichthyes,Carcharhiniformes,Carcharhinidae,Prionace,Prionace glauca,MATCH,34
+Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Glyptocephalus,Glyptocephalus cynoglossus,MATCH,9138
+Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Eleginus,Eleginus gracilis,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Pleuronectiformes,Pleuronectidae,Platichthys,Platichthys stellatus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Istiophoriformes,Xiphiidae,Xiphias,Xiphias gladius,MATCH,4
+Eukaryota,Chordata,Actinopteri,Clupeiformes,Clupeidae,Brevoortia,Brevoortia patronus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Labriformes,Labridae,Tautogolabrus,Tautogolabrus adspersus,MATCH,1430
+Eukaryota,Chordata,Actinopteri,Perciformes,Cottidae,Myoxocephalus,Myoxocephalus scorpius,MATCH,123
+Eukaryota,Chordata,Actinopteri,Atheriniformes,Atherinopsidae,Menidia,Menidia menidia,MATCH,389
+Eukaryota,Chordata,Actinopteri,Gobiiformes,Gobiidae,Tridentiger,Tridentiger bifasciatus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Cypriniformes,Leuciscidae,Pogonichthys,Pogonichthys macrolepidotus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Perciformes,Zoarcidae,Lycodes,Lycodes esmarkii,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Gadiformes,Gadidae,Melanogrammus,Melanogrammus aeglefinus,MATCH,234836
+Eukaryota,Chordata,Actinopteri,Labriformes,Labridae,Pictilabrus,Pictilabrus laticlavius,NO MATCH,NA
+Eukaryota,Chordata,Chondrichthyes,Lamniformes,Alopiidae,Alopias,Alopias vulpinus,MATCH,12
+Eukaryota,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salvelinus,Salvelinus curilus,NO MATCH,NA
+Eukaryota,Chordata,Actinopteri,Cyprinodontiformes,Fundulidae,Fundulus,Fundulus diaphanus,MATCH,314
+Eukaryota,Chordata,Actinopteri,Salmoniformes,Salmonidae,Salmo,Salmo salar,MATCH,15

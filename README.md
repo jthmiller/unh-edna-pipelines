@@ -18,6 +18,38 @@ wget -r -np -R "index.html*" --http-user=user --http-password=AvFBDnVBAf https:/
 ##### This will put the data in 'raw-data/cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_16Mer121923-AW-HIDAR-18SNX120623/reads'
 
 
+#### In many cases, denoising and taxonomy can be ran with the shell script wrapper for the pipeline as shown below. Or, each step of the pipeline can be ran manually. To run each step manually, skip down to "Manually run the pipeline"
+
+### To run the shell script wrapper pipeline:
+```
+qiime2_denoise.sh  \
+    HIDAR-18SNX120623 \
+    data/NERR/18s/runs \
+    raw-data/cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_16Mer121923-AW-HIDAR-18SNX120623/reads \
+    4 \
+    18s \
+    paired &> data/runlog.HIDAR-18SNX120623
+
+qiime2_hybrid-learn.sh  \
+    HIDAR-18SNX120623 \
+    data/NERR/18s/runs \
+    raw-data/cobb.sr.unh.edu/managed/231220_A01346_0125_BHJFLMDRX3_16Mer121923-AW-HIDAR-18SNX120623/reads \
+    4 \
+    18s &> data/runlog.HIDAR-18SNX120623
+```
+### The format of the arguments to the wrapper are as follows:
+```
+qiime2_denoise.sh  \
+    <project_name_from_run> \
+    <path of directories to create and store results> \
+    <path to the raw-data of the run> \
+    <number of threads to use 1:12> \
+    <primer to use> \
+    <paired or single end data> &> <path and name of file to save script run info>
+```
+For taxonomy, the format is the same, except the paired/single is no longer needed
+
+# Manually run the pipeline
 ## make out dirs
 ```
 mkdir -p  data/qiime_out data/plots data/metadata 
