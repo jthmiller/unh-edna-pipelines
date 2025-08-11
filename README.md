@@ -60,14 +60,23 @@ For ASVs that were classified to the genus level or higher or classified to a sp
 
 Output tables:
 Qiime_in_GBIF - Returns MATCH if the sklearn-hybrid classification of species name is in the GBIF fish list
+
 BLAST_in_GBIF - Returns MATCH if any of the top blast hits are in the GBIF fish list
+
 BLAST_GBIF_GUESS - Returns the species name of the MATCH from BLAST_in_GBIF 
+
 scomnames - BLAST output, common name of the top blast hit(s)	
+
 sscinames - BLAST output, scientific name of the top blast hit(s) that is used to check the GBIF fish list
+
 sskingdoms - Kingdom of top BLAST hit. Good for removing bacteria
+
 evalue - e-value of the top blast hits(s). 
-pident - Percent identity the ASV shares with the BLAST alignment 	
+
+pident - Percent identity the ASV shares with the BLAST alignment 
+
 seq - The sequence of the ASV with the primer sequences removed
+
 
 
 ### Example outputs:    
